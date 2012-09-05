@@ -50,29 +50,29 @@ STR_CHRYSSALID_UFOPEDIA
 STR_CHRYSSALID_AUTOPSY_UFOPEDIA
 Екзоскелет цієї істоти надзвичайно міцний, однак на диво вразливий для вибухових снарядів. Мозок добре розвинений і темп поділу його клітин дуже високий. Істота несе двадцять яєць, котрі відкладаються всередину інших організмів. Ця істота є дуже ефективною зброєю для терору.
 STR_FLOATER_UFOPEDIA
-The Floaters are primarily soldiers and terror agents. They are naturally predatory beasts, genetically engineered and cybernetically enhanced to make formidable warriors.  The lower half of the body and most internal organs are surgically removed, and a life support system is installed.  This implant contains an anti-grav unit which enables the creature to float, albeit unsteadily, through the air.
+Летуни є перш за все солдатами і терористами. Вони хижаки по своїй природі, які були перетворені в грізних воїнів генетичними модифікаціями та кібернетичними підсиленнями. Нижня частина тіла та більшість внутрішніх органів хірургічно видалені, натомість встановлена система життєзабезпечення. Цей імплант включає в себе антигравітаційний пристрій, який дозволяє цій істоті, хочі і невпевнено, літати в повітрі.
 STR_FLOATER_AUTOPSY_UFOPEDIA
-The creature has been drastically altered by surgery.  The device which seems to form the core of the body is a life support system, taking over the function of heart, lungs and digestive system.  This would enable the creature to survive in extremely hostile environments.  The brain is smaller than ours, but the sensory organs are well developed.
+Ця істота була кардинально змінена хірургічно. Пристроєм, який є ядром організму, є система життєзабезпечення, яка виконує функції серця, легенів і системи травлення. Це дозволяє істоті виживати в надзвичайно ворожих умовах. Мозок меннший, ніж наш, але органи чуттів розвинені добре.
 STR_REAPER_UFOPEDIA
-This bipedal carnivore has powerful jaws and a voracious appetite.  It has a number of brain implants which are used to control its activity.  The primitive predatory instincts of this creature are of little use except to terrorize and destroy.  Reapers are commonly associated with Floaters.
+Ця двонога м'ясоїдна тварина має міцні щелепи та надзвичайно ненажерлива. Вона має низку мозкових імплантів, які використовуються для контролю за його діяльністю. Примітивні хижацькі інстинкти цієї істоти навряд чи підходять для чогось, крім як терору та руйнування. Рипери зазвичай асоціюються з Летунами.
 STR_REAPER_AUTOPSY_UFOPEDIA
-The Reaper contains two 'brains' and two 'hearts' which allow it to function even when heavily wounded.  However its furry skin is highly flammable, making the creature vulnerable to incendiary weapons.
+Рипер має два "мозки" і два "серця", що дозволяє йому діяти навіть з сильними ранами. Однак, його покрита шерстю шкіра легко спалахує, що робить цю істоту вразливою для запалювальної зброї.
 STR_SECTOPOD_UFOPEDIA
-Sectopods are robot creatures with a powerful plasma beam weapon.  The control of these mechanical beasts is via a telepathic link to their controllers, the Ethereals.  Sectopods are the most powerful terror weapon available to the alien forces.
+Сектоподи - це роботи, оснащені потужною плазмовою зброєю. Ці механічні монстри управляються телепатично їх контролерами, Небесними. Сектоподи є найпотужнішою зброєю терору, яка доступна озброєним силам прибульців.
 STR_SECTOPOD_AUTOPSY_UFOPEDIA
-The robot is sturdily constructed with powered armor capable of resisting most forms of attack, in particular plasma weapons.  However, the sensing circuitry seems particularly vulnerable to laser weapons.
+Робот був створений з використанням міцної броні, здатної протидіяти більшості видів атак, особливо плазмовій зброї. Однак, система індикації напрямку виглядає частково вразливою для лазерної зброї.
 STR_CYBERDISC_UFOPEDIA
-This miniature flying saucer is an automated terror weapon armed with a powerful plasma beam.  The anti-grav propulsion gives it a big advantage in difficult terrain.  Its primary function is destruction and terror in the service of the Sectoid race.
+Ця "літаюча тарілка" в мініатюрі є автоматичним пристроєм для терору, озброєним потужним плазмовим випромінювачем. Антигравітаційний двигун дає йому велику перевагу на важкопрохідній місцевості. Основним призначенням є руйнування і терор на службі в раси Сектоїдів.
 STR_CYBERDISC_AUTOPSY_UFOPEDIA
-The Cyberdisc is well shielded and is particularly good at withstanding explosive ammunition.  The primary anti-gravity system is too badly damaged to gain any understanding of its functioning.
+Кібердиск добре захищений і практично невразливий для вибухівки. Антигравітаційна система надто пошкоджена, щоб зрозуміти принцип її функціонування.
 STR_UFO_POWER_SOURCE_UFOPEDIA
-The power source of alien craft is an anti-matter reactor which uses Elerium (element 115) to generate powerful gravity waves as well as other forms of energy.  The conversion of matter to energy is an incredible 99% efficient, therefore tiny quantities of Elerium can produce a huge amount of power.  This unit can be reproduced easily using alien alloys.
+Джерело енергії, яке використовується на кораблях прибульців, базується на реакторі антиматерії, який використовує Елеріум (елемент 115) і генерує потужні гравітаційні хвилі та інші форми енергії. ККД перетворення матерії в енергію сягає 99%, тому навіть незначна кількість елеріуму може виробити величезну кількість енергії. Цей пристрій можна легко відтворити, використовуючи сплави прибульців.
 STR_UFO_NAVIGATION_UFOPEDIA
-Alien craft use sophisticated computers to navigate on earth and through space.  The system is based on optical processors arranged in network fashion.  The control interface is relatively simple - the navigator controls the direction of gravity waves generated by the power source to move the craft in any direction.  This system can be used easily by humans, and it can be reproduced using alien alloys and other components.
+Польотом інопланетних кораблів керують потужні комп'ютери. Система базується на оптичних процесорах, об'єднаних в мережу. Інтерфейс управління відносно простий - навігатор міняє напрям гравітаційних хвиль, генерованих реактором, щоб рухати корабель в потрібному напрямку. Ця система може бути освоєна людиною. Для виробництва системи необхідні сплави прибульців та ряд інших компонентів.
 STR_UFO_CONSTRUCTION_UFOPEDIA
-Alien craft consist of three main components - a power source, a navigation system and a hull built from alien alloys.  The hull is specially designed to allow gravity waves to be directed and controlled.  In addition a small quantity of Elerium is required to fuel the power source.  Once the principles of construction are understood, and the functions of each component are known, then it is possible to build these types of craft.
+Корабель прибульців складається з трьох основних частин - джерела енергії, навігаційної системи та корпуса. Особлива форма корпуса дозволяє спрямовувати гравітаційні хвилі в довільному напрямку. Для джерела енергії потрібна невелика кількість елеріуму. Знаючи будову всіх компонентів корабля, чи зможем будувати апарати схожого типу.
 STR_ALIEN_FOOD_UFOPEDIA
-These chambers contain various enzymes which are used to digest the body parts of cattle, other animals and even humans.  The liquid is then consumed as ready digested food - probably direct to the bloodstream.  This suggests a certain dependence on earth for food - a symbiosis between earth and alien society.
+Камери містять розчин ензимів, призначений для розщеплення тканин тваринного походження (чи навіть людських органів). Вироблений в камерах розчин використовувався в якості їжі. Ймовірний спосіб вживання - пряма ін'єкція в кровотік. Це передбачає деяку залежність прибульців від Землі для виробництва їжі.
 STR_ALIEN_REPRODUCTION_UFOPEDIA
 These chambers contain alien fetuses.  The design of these containers seems to suggest that the aliens which use this process rely completely on laboratory reproduction.  The rich nutrients ensure rapid development of the fetus.  This factory line system could generate thousands of alien clones in a short space of time.  The process could be easily adapted for human reproduction, or alien-human hybrids.
 STR_ALIEN_ENTERTAINMENT_UFOPEDIA
