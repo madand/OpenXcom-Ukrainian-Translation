@@ -74,29 +74,29 @@ STR_UFO_CONSTRUCTION_UFOPEDIA
 STR_ALIEN_FOOD_UFOPEDIA
 Камери містять розчин ензимів, призначений для розщеплення тканин тваринного походження (чи навіть людських органів). Вироблений в камерах розчин використовувався в якості їжі. Ймовірний спосіб вживання - пряма ін'єкція в кровотік. Це передбачає деяку залежність прибульців від Землі для виробництва їжі.
 STR_ALIEN_REPRODUCTION_UFOPEDIA
-These chambers contain alien fetuses.  The design of these containers seems to suggest that the aliens which use this process rely completely on laboratory reproduction.  The rich nutrients ensure rapid development of the fetus.  This factory line system could generate thousands of alien clones in a short space of time.  The process could be easily adapted for human reproduction, or alien-human hybrids.
+В капсулах знаходяться зародки інопланетних організмів. Будова цих інкубаторів свідчить про те, що прибульці повністю перейшли на штучний метод відтворення.  Велика кількість поживних речовин забезпечує швидкий розвиток зародків. Така "виробнича лінія" може робити тисячі клонів за короткий час. Процес може бути легко адаптований для людського чи гібридного організму.
 STR_ALIEN_ENTERTAINMENT_UFOPEDIA
-The most likely function of these spheres is recreational.  The psionic circuitry stimulates various centers of the brain.  The effect is similar to hallucinogenic drugs.  This is the only evidence that aliens have any cultural or recreational pastimes.
+Найбільш ймовірна функція цих сфер - розважальна. Псіонічний контур стимулює різні центри мозку. Результуючий ефект схожий на дію галюциногенних наркотиків. Це єдиний доказ того, що прибульці мають культурне чи розважальне дозвілля.
 STR_ALIEN_SURGERY_UFOPEDIA
-This surgical equipment uses laser cutters to extract certain body parts from cattle and other animals.  The widespread cattle mutilations can be accounted for by this bizarre alien activity.  It is likely that these parts are used for nutritional or genetic purposes.
+Це хірургічне обладнання використовує лазерний скальпель для вилучення органівю. Поширені випадки калічення худоби, ймовірно, відбуваються з використанням цих дивних пристроїв. Скоріш за все, органи використовуються для їжі та генетичних дослідів.
 STR_EXAMINATION_ROOM_UFOPEDIA
-In the past many thousands of people have claimed to have been abducted by aliens, sometimes repeatedly.  The truth is far more horrific.  Humans are abducted, researched and monitored.  The best specimens have genetic material extracted.  Women have human-alien hybrid fetuses implanted, and then removed several months later.  Who knows what sinister motives the aliens have?
+В минулому тисячі людей стверджували, що були викрадені прибульцями, інколи неодноразово. Правда значно жахливіша. Людей викрадають, вивчають та спостерігають. Найкращі екземпляри слугують джерелом генетичного матеріалу. Жінкам імплантуються інопланетні гібридні ембріони, які виймають після кількох місяців розвитку. Невідомо, якими зловісними мотивами керуються прибульці.
 STR_ALIEN_ALLOYS_UFOPEDIA
-Alien craft are constructed from special alloys with unique properties.  They are extremely light and durable, and can be molded by electro-magnetic methods.  This material can be reproduced and used in many kinds of manufacturing processes.
+Кораблі прибульців побудовані з особливих сплавів, які мають унікальні властивості. Вони надзвичайно легкі та міцні. Цей матеріал можна відтворити, використовуючи методи електрометалургії, та використати в низці виробничих процесів.
 STR_YOU_WILL_NEED_TO_RESEARCH_A
-You will need to research a{NEWLINE}
+Необхідно дослідити{NEWLINE}
 STR_ELERIUM_115_UFOPEDIA
-This element has the unusual property of generating anti-matter power when bombarded with certain particles.  This creates gravity waves and other forms of energy.  It is not naturally found in our solar system and cannot be reproduced.
+Цей елемент має незвичайну здатність генерувати антиматерію при бомбардуванні певними частинками. Це викликає появу гравітаційних хвиль та інших форм енергії. Елеріум-115 не знайдено в нашій Сонячній системі, і ми також не можемо синтезувати його штучно.
 STR_ALIEN_ORIGINS_UFOPEDIA
-It is clear that we are fighting a losing battle on earth.  The alien hordes are overwhelming in number.  The best we can do is slow down their progress.  The only hope for humanity is to tackle the aliens at their source.  Our research seems to indicate a nearby base of operations within our solar system.  Aliens indicate this place to be the center of an ancient civilization that pre-dates Human history.  We must locate this place as soon as possible.  However we need to capture and interrogate an alien leader to gain more detailed information.  The larger UFOs probably contain at least one Alien leader.
+Очевидно, що подальша боротьба за Землю безперспективна. Ворог переважає нас кількістю. Найбільше, що ми можемо зробити - це сповільнити його просування. Єдиний шанс перемогти - це знищити джерело вторгнення. Дослідження показують, що він знаходиться в межах нашої Сонячної системи. Прибульці описують це місце як центр древньої цивілізації, яка виникла набагато раніше людства. Ми мусимо якнайшвидше знайти це місце. Для отримання детальної інформації необхідно захопити прибульця-лідера. Ймовірно, на великих кораблях ворога має бути принаймні один лідер.
 STR_THE_MARTIAN_SOLUTION_UFOPEDIA
-Our research now points to Mars as the base of alien operations.  The base is well hidden, and contains all the manufacturing and cloning facilities to fuel the infiltration of earth.  It also seems to contain a controlling computer of some kind that controls the whole operation.  It seems that the hive-like alien society has some kind of 'queen bee'.  This is their fundamental weakness - if we can eliminate the 'brain' then the body will die.  We must step up our research efforts before it is too late.  In order to progress we must capture the highest ranking aliens - the commanders - which only reside in alien bases.
+Наші дослідження вказуть на Марс, як на основну базу прибульців. База добре замаскована і має всі засоби для виробництва техніки та живої сили для проникнення на Землю. Також там знаходиться якийсь керуючий комп'ютерний центр, який керує всіма операціями ворога. Роєподібне по своїй структурі суспільство прибульців має "королеву рою", і в цьому їхня фундаментальна слабкість - якщо ми зможем знищити цей "мозок", вся армія загине, як одна істота. Ми повинні прискорити дослідження в цьому напрямку, поки не пізно. Для досягнення успіху, нам необхідно допитати прибульців найвищого рангу - командирів, які постійно знаходяться на базах.
 STR_CYDONIA_OR_BUST_UFOPEDIA
-It is now clear that the alien hordes are being controlled from an underground base in Cydonia - which is an unusual area of Mars featuring five sided pyramids and a large formation resembling a human face.  Cydonian civilization once flourished on Mars many millions of years ago, but we do not know why it died out, or what the connection is with the latest alien activity there.  Whatever the explanation we must send an expedition to Cydonia.  This is the only way that we can defeat the aliens.  We must destroy the controlling master 'brain'.  We will need an Avenger craft equipped with the most awesome destructive power at our disposal.  There is nothing more we can learn here - we must await the outcome of the Cydonian assault.
+Встановлено, що армія прибульців управляється з підземної бази в Кідонії - дивної області Марса, відомої розташованими там пірамідами та утворенням, яке нагадує людське лице. Кідонійська цивілізація процвітала мільйони років тому, причини її загибелі невідомі, як і зв'язок цієї цивілізації з активністю прибульців в наш час. Якими б не були пояснення нам необхідно летіти в Кідонію. Є лише один спосіб перемогти прибульців - знищити центральний керуючий "мозок". Нам буде потрібен "Месник" - транспорт, обладнаний найкращим доступним озброєнням, здатний доставити десант на Марс. Ми не можемо дізнатись більше, залишаючись тут, і змушені чекати результатів штурму Кідонії.
 STR_TERROR_SITE
-Terror Site-
+Ділянка терору-
 STR_CENTER_ON_SITE_TIME_5_SECS
-CENTER ON SITE-TIME=5 Secs
+ЦЕНТР НА ДІЛЯНЦІ, ЧАС=5 Сек
 STR_CANCEL_UC
 CANCEL
 STR_NONE
