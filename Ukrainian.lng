@@ -856,47 +856,47 @@ Raw Materials
 STR_HWP_CANNON_SHELLS
 HWP Cannon Shells
 STR_ALIEN
-Alien
+Прибулець
 STR_SECTOID
-Sectoid
+Сектоïд
 STR_SNAKEMAN
-Snakeman
+Людинозмiя
 STR_ETHEREAL
-Ethereal
+Небесний
 STR_MUTON
-Muton
+Мутон
 STR_FLOATER
-Floater
+Летун
 STR_CELATID
-Celatid
+Селатид
 STR_SILACOID
-Silacoid
+Силакоïд
 STR_CHRYSSALID
-Chryssalid
+Крисалiд
 STR_REAPER
-Reaper
+Рипер
 STR_SECTOPOD
-Sectopod
+Сектопод
 STR_CYBERDISC
-Cyberdisc
+Кiбердиск
 STR_LIVE_COMMANDER
- Commander
+ Командуючий
 STR_LIVE_LEADER
- Leader
+ Лiдер
 STR_LIVE_ENGINEER
- Engineer
+ Iнженер
 STR_LIVE_MEDIC
- Medic
+ Медик
 STR_LIVE_NAVIGATOR
- Navigator
+ Навiгатор
 STR_LIVE_SOLDIER
- Soldier
+ Соладт
 STR_LIVE_TERRORIST
- Terrorist
+ Терорист
 STR_UFO_POWER_SOURCE
-UFO Power Source
+Джерело Енергiï НЛО
 STR_UFO_NAVIGATION
-UFO Navigation
+Навiгацiя НЛО
 STR_UFO_CONSTRUCTION
 UFO Construction
 STR_ALIEN_FOOD
@@ -1072,33 +1072,33 @@ Weapon Power
 STR_WEAPON_RANGE
 Weapon Range
 STR_ACCESS_LIFT
-Access Lift
+Вхiдний Лiфт
 STR_LABORATORY
-Laboratory
+Лабораторiя
 STR_WORKSHOP
-Workshop
+Майстерня
 STR_SMALL_RADAR_SYSTEM
-Small Radar System
+Ближнiй Радар
 STR_LARGE_RADAR_SYSTEM
-Large Radar System
+Дальнiй Радар
 STR_MISSILE_DEFENSES
-Missile Defenses
+Ракетний Захист
 STR_GENERAL_STORES
-General Stores
+Склади
 STR_ALIEN_CONTAINMENT
-Alien Containment
+Тюрма для Прибульцiв
 STR_LASER_DEFENSES
-Laser Defenses
+Лазений Захист
 STR_PLASMA_DEFENSES
-Plasma Defenses
+Плазмовий Захист
 STR_FUSION_BALL_DEFENSES
-Fusion Ball Defenses
+Бластерний Захист
 STR_PSIONIC_LABORATORY
-Psionic Laboratory
+Псi-Лабораторiя
 STR_HYPER_WAVE_DECODER
-Hyper-wave Decoder
+Гiперхвильовий Декодер
 STR_HANGAR
-Hangar
+Ангар
 STR_USA
 USA
 STR_RUSSIA
@@ -1272,35 +1272,35 @@ A small launcher which fires stun bombs.  Very useful for capturing live aliens.
 STR_ALIEN_GRENADE_UFOPEDIA
 This device works in the same way as a terrestrial grenade - except that it is more powerful.
 STR_SMALL_SCOUT
-Small Scout
+Малий Розвiдник
 STR_MEDIUM_SCOUT
-Medium Scout
+Середнiй Розвiдник
 STR_LARGE_SCOUT
-Large Scout
+Великий Розвiдник
 STR_HARVESTER
-Harvester
+Жнець
 STR_ABDUCTOR
-Abductor
+Викрадач
 STR_TERROR_SHIP
-Terror ship
+Корабель Терору
 STR_BATTLESHIP
-Battleship
+Лiнкор
 STR_SUPPLY_SHIP
-Supply ship
+Корабель Постачання
 STR_RATING
-RATING>
+ОЦIНКА>
 STR_RATING_TERRIBLE
-TERRIBLE!
+ЖАХЛИВО!
 STR_RATING_POOR
-POOR!
+ПОГАНО!
 STR_RATING_OK
 OK
 STR_RATING_GOOD
-GOOD!
+ДОБРЕ!
 STR_RATING_EXCELLENT
-EXCELLENT!
+ПРЕКРАСНО!
 STR_SCORE
-SCORE
+РАХУНОК
 STR_XCOM_PROJECT_MONTHLY_REPORT
 XCOM PROJECT MONTHLY REPORT
 STR_MONTH
