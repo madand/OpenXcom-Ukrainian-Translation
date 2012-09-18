@@ -292,33 +292,34 @@ STR_AMOUNT_TO_TRANSFER
 STR_SELECT_DESTINATION_BASE
 Виберiть Мiсце Призначення
 STR_COST
-Cost
+Варт.
 STR_VICTORY_1
-As you enter the chamber you see the alien brain - the object of your quest.  Before you can fire it communicates to you via a screen at its base.  It implores you to listen to its arguments for survival before you make the decision to pull the trigger...
+Зайшовши в зал, ви бачите iнопланетний Мозок - цiль ваших пошукiв. Перш нiж ви встигаєте вистелити, Мозок звертається до вас через екран, що знаходиться в примiщеннi. Вiн просить вислухати аргументи на свiй захист перш, нiж ви натиснете на спусковий гачок...
 STR_VICTORY_2
-The brain speaks: 'Many millions of years ago the planet you call Mars was alive.  This life was brought to a barren planet by our civilization as it was to yours.  For millions of years we have visited your planet and genetically developed your species.  You cannot kill us, you are part of us...
+"...Багато мiльонiв рокiв тому планета, яку ви називаєте Марс, була живою. Це життя було принесене на безплiдну планету нашою цивiлiзацiєю. Протягом мiльонiв рокiв ми вiдвiдували вашу планету i генетично розробили ваш вид. Ви не можете знищити нас, ви - частина нас...
 STR_VICTORY_3
-Here is the center of Martian civilization - the pyramids built millions of years before yours - by a species which is your ancestor.  No planet is beyond our reach.  This power could be yours before long.  All we ask is your co-operation...
+...Тут центр Марсiанськоï цивiлiзацiï - пiрамiди, побудованi за мiйльони рокiв до вас видом, який є вашим предком. Немає такоï планети якоï ми не моглиб досягнути. Ця сила скоро може стати вашою. Все що ми просимо - ваша спiвпраця...
 STR_GAME_OVER_1
-The aliens attempt to exterminate all humanity, destroying cities and poisoning the air and sea.  The resistance of earth armies is futile in the face of vastly superior technology.  Surviving generations suffer terrible mutations as they flee alien destruction.  They are rounded up into slave camps to help transform earth into an alien colony which is part of some unknown empire.
+Прибульцi взялися за винищення людства, зруйнували мiста, отруïли повiтря та океани. Опiр земних армiй марний проти переважаючих iнопланетних технологий. Поколiння, якi виживуть, перенесуть жахливi мутацiï, уникнувши знищення прибульцями. Вони стануть рабами i будуть використанi для перетворення Землi в колонiю прибульцiв - частину якоïсь невiдомоï iмперiï.
 STR_GAME_OVER_2
-The knowledge gained through the XCom project is lost forever.  You have failed to save the earth.
+Знання, здобутi проектом X-COM, втрачено назажди. Ви не змогли захистити Землю.
 STR_VICTORY_4
+Мозок знищено зарядом гарячоï плазми, сили прибульцiв переможено.
 The alien brain is interrupted by a burst of hot plasma, and the entire alien force is defeated.
 STR_VICTORY_5
-Once the aliens have lost Mars they have lost the earth.  Before long the XCom research allows humanity to flourish once more, and claim Mars for itself.  The alien menace has gone, but for how long, no one knows...
+Прибульцi втратили Марс, а отже i Землю. Незабаром розробленi в X-COM технологiï дозволять людству почати самостiйно освоювати Марс та досягнути небувалого розквiту. Iнопланетна загроза усунута, та чи на довго, нiхто не знає...
 STR_YOU_HAVE_FAILED
-You have failed to stop the alien onslaught.  One by one the funding nations sign pacts with aliens promising technology, prosperity and peace.  However it soon becomes clear that the aliens have other plans...
+Ви не змогли зупинити вторгнення. Одна за одною передовi держави пiдпишуть пакт з прибульцями, якi обiцяють дати новi технологiï, мир i процвiтання. Однак швидко стане зрозумiло, що в прибульцiв iншi плани...
 STR_TOTAL_UC
-TOTAL
+ВСЬОГО
 STR_INCOME
-Income
+Прибуток
 STR_EXPENDITURE
-Expenditure
+Витрати
 STR_MAINTENANCE
-Maintenance
+Обслуговування
 STR_BALANCE
-Balance
+Баланс
 STR_UFO_ACTIVITY_IN_AREAS
 UFO Activity in Areas
 STR_UFO_ACTIVITY_IN_COUNTRIES
