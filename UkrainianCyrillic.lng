@@ -321,61 +321,61 @@ STR_MAINTENANCE
 STR_BALANCE
 Баланс
 STR_UFO_ACTIVITY_IN_AREAS
-UFO Activity in Areas
+Активн. НЛО в Регіонах
 STR_UFO_ACTIVITY_IN_COUNTRIES
-UFO Activity in Countries
+Активн. НЛО в Країнах
 STR_XCOM_ACTIVITY_IN_AREAS
-XCom Activity in Areas
+Активн. X-COM в Регіонах
 STR_XCOM_ACTIVITY_IN_COUNTRIES
-XCom Activity in Countries
+Активн. X-COM в Країнах
 STR_FINANCE
-Finance
+Фінанси
 STR_ST
-st
+е
 STR_ND
-nd
+е
 STR_RD
-rd
+є
 STR_TH
-th
+е
 STR_NOT_ENOUGH_SPECIAL_MATERIALS_TO_PRODUCE
-Not enough special materials to produce{NEWLINE}
+Бракує спеціальних матеріалів для виробництва{NEWLINE}
 STR_NOT_ENOUGH_MONEY_TO_PRODUCE
-Not enough money to produce{NEWLINE}
+Бракує грошей для виробництва{NEWLINE}
 STR_PRODUCTION_COMPLETE
-Production complete:{NEWLINE}
+Завершено виробницто:{NEWLINE}
 STR_PRODUCTION_OF
-Production of{NEWLINE}
+Виробництво{NEWLINE}
 STR__AT__
-{NEWLINE}at{NEWLINE}
+{NEWLINE}в{NEWLINE}
 STR_IS_COMPLETE
-{NEWLINE} is complete
+{NEWLINE} завершено
 STR_OK_5_SECS
-OK - 5 secs
+OK - 5 сек
 STR_RESEARCH_COMPLETED
-Research Completed
+Дослідження завершено
 STR_VIEW_REPORTS
-VIEW REPORTS
+ЗВІТ
 STR_WE_CAN_NOW_RESEARCH
-We can now research
+Ми можемо досліджувати
 STR_WE_CAN_NOW_PRODUCE
-We can now produce
+Ми можемо виробляти
 STR_SUNDAY
-SUNDAY
+НЕДІЛЯ
 STR_MONDAY
-MONDAY
+ПОНЕДІЛОК
 STR_TUESDAY
-TUESDAY
+ВІВТОРОК
 STR_WEDNESDAY
-WEDNESDAY
+СЕРЕДА
 STR_THURSDAY
-THURSDAY
+ЧЕТВЕР
 STR_FRIDAY
-FRIDAY
+П'ЯТНИЦЯ
 STR_SATURDAY
-SATURDAY
+СУБОТА
 STR_NOT_ENOUGH
-Not enough
+Немає
 STR_TO_REFUEL
  to refuel
 STR_TO_REARM
