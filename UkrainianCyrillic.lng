@@ -256,7 +256,7 @@ STR_SOLDIERS
 STR_SCIENTISTS
 Вчені
 STR_SPACE_USED_SPACE_AVAILABLE
-МІСЦЯ ЗАЙНЯТО:МІСЦЯ ВІЛЬНО>
+МІСЦЯ ЗАЙНЯТО:МІСЦЯ ВСЬОГО>
 STR_LIVING_QUARTERS
 Житлові модулі
 STR_STORES
@@ -305,7 +305,6 @@ STR_GAME_OVER_2
 Знання, здобуті проектом X-COM, втрачено назажди. Ви не змогли захистити Землю.
 STR_VICTORY_4
 Мозок знищено зарядом гарячої плазми, сили прибульців переможено.
-The alien brain is interrupted by a burst of hot plasma, and the entire alien force is defeated.
 STR_VICTORY_5
 Прибульці втратили Марс, а отже і Землю. Незабаром розроблені в X-COM технології дозволять людству почати самостійно освоювати Марс та досягнути небувалого розквіту. Інопланетна загроза усунута, та чи на довго, ніхто не знає...
 STR_YOU_HAVE_FAILED
@@ -375,89 +374,89 @@ STR_FRIDAY
 STR_SATURDAY
 СУБОТА
 STR_NOT_ENOUGH
-Немає
+Немає 
 STR_TO_REFUEL
- to refuel
+ для 
 STR_TO_REARM
- to rearm
+ для 
 STR_AT_
- at
+ на 
 STR_UFO_IS_NOT_RECOVERED
-UFO is not recovered
+НЛО не захплений
 STR_UFO_IS_RECOVERED
-UFO is recovered
+НЛО захплений
 STR_CRAFT_IS_LOST
-Craft is lost
+Корабель втрачений
 STR_TERROR_CONTINUES
-Terror continues
+Терор продовжується
 STR_ALIENS_DEFEATED
-Aliens defeated
+Прибульці переможені
 STR_BASE_IS_LOST
-Base is lost
+База втрачена
 STR_BASE_IS_SAVED
-Base is saved
+База збережена
 STR_ALIEN_BASE_STILL_INTACT
-Alien Base still intact
+База Прибульців не знищена
 STR_ALIEN_BASE_DESTROYED
-Alien Base destroyed
+База Прибульців знищена
 STR_ALIENS_KILLED
-ALIENS KILLED
+ПРИБУЛЬЦІВ ВБИТО
 STR_ALIEN_CORPSES_RECOVERED
-ALIEN CORPSES RECOVERED
+ТРУПІВ ПРИБУЛЬЦІВ ЗНАЙДЕНО
 STR_LIVE_ALIENS_RECOVERED
-LIVE ALIENS RECOVERED
+ЖИВИХ ПРИБУЛЬЦІВ ЗНАЙДЕНО
 STR_ALIEN_ARTIFACTS_RECOVERED
-ALIEN ARTIFACTS RECOVERED
+СПОРЯДЖЕННЯ ПРИБУЛЬЦІВ ЗНАЙДЕНО
 STR_ALIEN_BASE_CONTROL_DESTROYED
-ALIEN BASE CONTROL DESTROYED
+БАЗА ПРИБУЛЬЦІВ ЗНИЩЕНА
 STR_CIVILIANS_KILLED_BY_ALIENS
-CIVILIANS KILLED BY ALIENS
+ЦИВІЛЬНИХ ВБИТО ПРИБУЛЬЦЯМИ
 STR_CIVILIANS_KILLED_BY_XCOM_OPERATIVES
-CIVILIANS KILLED BY XCOM OPERATIVES
+ЦИВІЛЬНИХ ВБИТО СОЛДАТАМИ X-COM
 STR_CIVILIANS_SAVED
-CIVILIANS SAVED
+ЦИВІЛЬНИХ ВРЯТОВАНО
 STR_XCOM_OPERATIVES_KILLED
-XCOM OPERATIVES KILLED
+СОЛДАТІВ X-COM ВБИТО
 STR_XCOM_OPERATIVES_RETIRED_THROUGH_INJURY
-XCOM OPERATIVES RETIRED THROUGH INJURY
+СОЛДАТІВ X-COM ПІШЛО В ВІДСТАВКУ ПО СТАНУ ЗДОРОВ'Я
 STR_XCOM_OPERATIVES_MISSING_IN_ACTION
-XCOM OPERATIVES MISSING IN ACTION
+СОЛДАТІВ X-COM ЗНИКЛО БЕЗ ВІСТІ
 STR_TANKS_DESTROYED
-TANKS DESTROYED
+ТАНКІВ ЗНИЩЕНО
 STR_XCOM_CRAFT_LOST
-XCOM CRAFT LOST
+КОРАБЕЛЬ X-COM ВТРАЧЕНО
 STR_UFO_RECOVERY
-UFO RECOVERY
+ЗІБРАНО В НЛО
 STR_ALIEN_BASE_RECOVERY
-ALIEN BASE RECOVERY
+БАЗА ПРИБУЛЬЦІВ ЗНАЙДЕНА
 STR_UNDER_ATTACK
- under attack!
+ атаковано!
 STR_BASE_DEFENSES_INITIATED
-BASE DEFENSES INITIATED
+ЗАДІЯНО ЗАХИСТ БАЗИ
 STR_GRAV_SHIELD_REPELS_UFO
-GRAV SHIELD REPELS UFO!
+ГРАВ. ЩИТ ВІДШТОВХНУВ НЛО!
 STR_FIRING
-FIRING
+ВИСТРІЛ
 STR_HIT
-HIT!
+ПОПАДАННЯ!
 STR_UFO_DESTROYED
-UFO DESTROYED!
+НЛО ЗНИЩЕНИЙ!
 STR_MISSED
-MISSED!
+ПРОМАХ!
 STR_SELL_ITEMS_SACK_PERSONNEL
-Sell Items/Sack Personnel
+Продаж/Звільнення Персоналу
 STR_VALUE_OF_SALES
-VALUE OF SALES>
+ВАРТІСТЬ ПРОДАНОГО>
 STR_FUNDS
-FUNDS>
+ФОНДИ>
 STR_SELL_SACK
-Sell/Sack
+Продати/Звільнити
 STR_VALUE
-Value
+Ціна
 STR_CRAFT_
-CRAFT>
+КОРАБЕЛЬ>
 STR_UFO_CRASH_RECOVERY
-UFO CRASH RECOVERY
+ЗАХОПЛЕННЯ ЗБИТОГО НЛО
 STR_UFO_CRASH_RECOVERY_BRIEFING
 Exercise caution - There may be operatives in the UFO or around the crash site.  Mission will be successful when all enemy units have been eliminated or neutralized.  Recovery of UFO remains, artifacts and alien corpses can then be initiated.  To abort the mission return XCom operatives to transport vehicle and click on the 'Abort Mission' icon.
 STR_UFO_GROUND_ASSAULT
@@ -1459,19 +1458,19 @@ Load Game
 STR_SELECT_DIFFICULTY_LEVEL
 Select Difficulty Level
 STR_1_BEGINNER
-1> Beginner
+1> Початківець
 STR_2_EXPERIENCED
-2> Experienced
+2> Досвідчений
 STR_3_VETERAN
-3> Veteran
+3> Ветеран
 STR_4_GENIUS
-4> Genius
+4> Геній
 STR_5_SUPERHUMAN
-5> Superhuman
+5> Надлюдина
 STR_TIME
-Time
+Час
 STR_DATE
-Date
+Дата
 STR_SELECT_GAME_TO_LOAD
 Select game to load
 STR_SELECT_SAVE_POSITION
@@ -1991,19 +1990,19 @@ BELT
 STR_IS_UNDER_ALIEN_CONTROL
 is under alien control
 STR_SCROLL_SPEED
-SCROLL SPEED
+ШВИДКІСТЬ СКРОЛІНГУ
 STR_SCROLL_TYPE
-SCROLL TYPE
+ТИП СКРОЛІНГУ
 STR_TRIGGER_SCROLL
-TRIGGER SCROLL
+ВРУЧНУ
 STR_AUTO_SCROLL
-AUTO-SCROLL
+АВТО
 STR_FIRE_SPEED
-FIRE SPEED
+ШВИДКІСТЬ СНАРЯДІВ
 STR_XCOM_MOVEMENT_SPEED
-XCOM MOVEMENT SPEED
+ШВИДКІСТЬ ПЕРЕМІЩЕННЯ X-COM
 STR_ALIEN_MOVEMENT_SPEED
-ALIEN MOVEMENT SPEED
+ШВИДКІСТЬ ПЕРЕМІЩЕННЯ ПРИБУЛЬЦІВ
 STR_HAS_BECOME_UNCONSCIOUS
  has become unconscious
 STR_HAS_DIED_FROM_A_FATAL_WOUND
@@ -2025,28 +2024,28 @@ STR_UNITS_IN_EXIT_AREA
 STR_UNITS_OUTSIDE_EXIT_AREA
  Units outside Exit Area
 STR_ABORT_MISSION
-Abort Mission ?
+Перервати ісію?
 STR_CORPSE
-Corpse
+Труп
 STR_UNLOAD
-Unload
+Розрядити
 STR_NEW_SAVED_GAME
 <NEW SAVED GAME>
 STR_NEW_BATTLE
-New Battle
+Нова Битва
 STR_OPTIONS
-Options
+Налаштування
 STR_TERRAIN
-TERRAIN
+МІСЦЕВІСТЬ
 STR_DARKNESS
-DARKNESS
+РІВЕНЬ ТЕМРЯВИ
 STR_DISPLAY_RESOLUTION
-Display Resolution
+Роздільна Здатність
 STR_DISPLAY_MODE
-Display Mode
+Режим Екрана
 STR_WINDOWED
-Windowed
+Віконний
 STR_FULLSCREEN
-Fullscreen
+Повноекранний
 STR_LANGUAGE
-LANGUAGE
+МОВА
