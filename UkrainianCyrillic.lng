@@ -374,13 +374,13 @@ STR_FRIDAY
 STR_SATURDAY
 СУБОТА
 STR_NOT_ENOUGH
-Немає 
+Немає
 STR_TO_REFUEL
- для 
+ для
 STR_TO_REARM
- для 
+ для
 STR_AT_
- на 
+ на
 STR_UFO_IS_NOT_RECOVERED
 НЛО не захплений
 STR_UFO_IS_RECOVERED
@@ -458,51 +458,51 @@ STR_CRAFT_
 STR_UFO_CRASH_RECOVERY
 ЗАХОПЛЕННЯ ЗБИТОГО НЛО
 STR_UFO_CRASH_RECOVERY_BRIEFING
-Exercise caution - There may be operatives in the UFO or around the crash site.  Mission will be successful when all enemy units have been eliminated or neutralized.  Recovery of UFO remains, artifacts and alien corpses can then be initiated.  To abort the mission return XCom operatives to transport vehicle and click on the 'Abort Mission' icon.
+Будьте обережні - прибульці можуть бути в НЛО чи поблизу нього. Місія завершиться коли всі прибульці будуть вбиті або нейтралізовані. Після цього знайдені рештки НЛО, тіла прибульців та їх спорядження будуть евакуйовані. Для припинення місії поверніть бійців в транспорт і натисніть кнопку "Перервати Місію".
 STR_UFO_GROUND_ASSAULT
-UFO GROUND ASSAULT
+ШТУРМ НЛО
 STR_UFO_GROUND_ASSAULT_BRIEFING
-Explore landing site and, if possible, gain entry to the UFO.  Mission will be successful when all enemy units have been eliminated or neutralized.  Recovery of UFO, artifacts and alien corpses can then be initiated.  To abort the mission return XCom operatives to transport vehicle and click on the 'Abort Mission' icon.
+Вивчіть місце посадки і, при можливості, отримайте доступ до НЛО. Місія завершиться коли всі прибульці будуть вбиті або нейтралізовані. Після цього знайдені рештки НЛО, тіла прибульців та їх спорядження будуть евакуйовані. Для припинення місії поверніть бійців в транспорт і натисніть кнопку "Перервати Місію".
 STR_BASE_DEFENSE
-BASE DEFENSE
+ЗАХИСТ БАЗИ
 STR_BASE_UC_
-BASE>
+БАЗА>
 STR_BASE_DEFENSE_BRIEFING
-An Alien vessel has landed nearby.  Our base is in severe danger.  As per standard procedure all non-combat personnel and XCom craft have been evacuated.  Alien units will enter the base via hangar doors or the access lift.  Defend the base and its vital installations at all costs - this is a fight to the death.  If you click on the 'abort mission' icon you will concede defeat and lose the base.
+Неподалік приземлився корабель прибульців. Наша база в серйозній небезпеці. Згідно зі стандартною процедурою, небойовий персонал та кораблі X-COM були евакуйовані. Прибульці будуть проникати на базу через ангари та вхідний ліфт. Захищайте базу будь-якою ціною - це битва на смерть. В випадку відступу Ви втратите базу.
 STR_ALIEN_BASE_ASSAULT
-ALIEN BASE ASSAULT
+ШТУРМ БАЗИ ПРИБУЛЬЦІВ
 STR_ALIEN_BASE_ASSAULT_BRIEFING
-XCom operatives have gained entrance to an alien base.  The control center must be destroyed to render the base inoperative.  The Mission will terminate when all enemies are eliminated, or when your squad has returned to the green exit area (click on the 'abort mission' icon to escape).
+Бійці X-COM проникнули на базу прибульців. Для ліквідації бази потрібно знищити центр керування. Всі прибульці, присутні на базі, мають бути знищені або нейтралізовані. Для припинення місії поверніть бійців в зелену зону висадки та натисніть кнопку "Перервати Місію".
 STR_CYDONIA_BRIEFING
-You have arrived in Cydonia.  You gain entry to a large underground complex near the Martian Sphinx.  You must destroy the Alien Brain that controls all alien activity.  The fate of humanity is in your hands....
+Ви прибули в Кідонію. Необхідно проникнути в підземний комплекс, який знаходиться біля Марсіанського Сфінкса. Ви мусите знайти і знищити Інопланетний Мозок, який керує вторгненням. Доля людства у ваших руках...
 STR_TERROR_MISSION
-TERROR MISSION
+ПРИДУШЕННЯ ТЕРОРУ
 STR_TERROR_MISSION_BRIEFING
-Mission will be successful when all enemy units have been eliminated or neutralized.  You must attempt to save the lives of any civilians in the area by neutralizing the alien menace.  To abort the mission return XCom operatives to transport vehicle and click on the 'Abort Mission' icon.
+Необхідно знищити або нейтралізувати всіх прибульців. Намагайтеся врятувати життя цивільних в зоні терору, нейтралізуючи інопланетну загрозу. Для припинення місії поверніть бійців в транспорт і натисніть кнопку "Перервати Місію".
 STR_NO_FREE_HANGARS_FOR_CRAFT_PRODUCTION
-NO FREE HANGARS FOR CRAFT PRODUCTION!{SMALLLINE}Each craft assigned to a base, transferred to a base, purchased or constructed uses one hangar.  Build a new hangar or transfer a craft to another base.
+НЕМАЄ ВІЛЬНОГО АНГАРУ ДЛЯ БУДІВНИЦТВА КОРАБЛЯ!{SMALLLINE}Кожний корабель приписаний до бази, транспортований на базу, придбаний або такий, який тільки будується, використовує один ангар. Будуйте новий ангар або транспортуйте на іншу базу.
 STR_NO_FREE_HANGARS_FOR_PURCHASE
-NO FREE HANGARS FOR PURCHASE!{SMALLLINE}Each craft assigned to a base, transferred to a base, purchased or constructed uses one hangar.  Build a new hangar or transfer a craft to another base.
+НЕМАЄ ВІЛЬНОГО АНГАРУ ДЛЯ КУПІВЛІ КОРАБЛЯ!{SMALLLINE}Кожний корабель приписаний до бази, транспортований на базу, придбаний або такий, який тільки будується, використовує один ангар. Будуйте новий ангар або транспортуйте на іншу базу.
 STR_NO_FREE_HANGARS_FOR_TRANSFER
-NO FREE HANGARS FOR TRANSFER!{SMALLLINE}Each craft assigned to a base, transferred to a base, purchased or constructed uses one hangar.  Build a new hangar or transfer a craft to another base.
+НЕМАЄ ВІЛЬНОГО АНГАРУ ДЛЯ ТРАНСПОРТУВАННЯ!{SMALLLINE}Кожний корабель приписаний до бази, транспортований на базу, придбаний або такий, який тільки будується, використовує один ангар. Будуйте новий ангар або транспортуйте на іншу базу.
 STR_CANNOT_BUILD_HERE
-CANNOT BUILD HERE!{SMALLLINE}You must build next to an existing base facility.
+НЕ МОЖНА БУДУВАТИ ТУТ!{SMALLLINE}Будівництво можливе лише поруч з вже існуючим модулем.
 STR_NO_FREE_ACCOMODATION
-NO FREE ACCOMMODATION!{SMALLLINE}The destination base does not have enough space in living quarters.
+НЕМАЄ ВІЛЬНОГО РОЗМІЩЕННЯ!{SMALLLINE}База-адресат не має достатньо місця в житлових модулях.
 STR_NOT_ENOUGH_WORK_SPACE
-NOT ENOUGH WORK SPACE AVAILABLE!{SMALLLINE}Build a new workshop or reduce work on other projects.
+НЕ ДОСТАТНЬО РОБОЧОГО МІСЦЯ!{SMALLLINE}Будуйте нову майстерню або зменшуйте роботи над іншими проектами.
 STR_NOT_ENOUGH_MONEY
-NOT ENOUGH MONEY!
+НЕ ДОСТАТНЬО ГРОШЕЙ!
 STR_NOT_ENOUGH_TRANSFER_SUPPORT
-NOT ENOUGH TRANSFER SUPPORT!{SMALLLINE}Wait for existing transfers or purchases to reach destination.
+ЗАБАГАТО ТРАНСПОРТУВАНЬ!{SMALLLINE}Дочекайтесь прибуття вантажів, які транспортуються, або купуйте на місці призначення.
 STR_NO_MORE_SOLDIERS_ALLOWED
-NO MORE SOLDIERS ALLOWED!{SMALLLINE}You have already recruited the maximum number of soldiers.
+ЛІМІТ СОЛДАТІВ ВИЧЕРПАНО!{SMALLLINE}Ви вже завербували максимально допустиму кількість солдатів.
 STR_NOT_ENOUGH_STORE_SPACE
-NOT ENOUGH STORE SPACE!{SMALLLINE}Build a new store facility or transfer existing stores to other bases.
+ЗАМАЛО МІСЦЯ В СХОВИЩАХ!{SMALLLINE}Будуйте нові сховища або транспортуйте на інші бази.
 STR_NOT_ENOUGH_LIVING_SPACE
-NOT ENOUGH LIVING SPACE!{SMALLLINE}Build new living quarters or transfer personnel to other bases.
+ЗАМАЛО ЖИТЛОВОЇ ПЛОЩІ!{SMALLLINE}Будуйте житлові модулі або транспортуйте персонал на інші бази.
 STR_NO_MORE_EQUIPMENT_ALLOWED_ON_BOARD
-NO MORE EQUIPMENT ALLOWED ON BOARD!{SMALLLINE}You are only allowed to take a maximum of 80 items of equipment on missions.
+ЗАБАГАТО СПОРЯДЖЕННЯ!{SMALLLINE}На завдання можна взяти не більше ніж 80 одиниць спорядження.
 STR_LAUNCH_INTERCEPTION
 LAUNCH INTERCEPTION
 STR_CRAFT
