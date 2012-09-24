@@ -374,13 +374,13 @@ STR_FRIDAY
 STR_SATURDAY
 СУБОТА
 STR_NOT_ENOUGH
-Немає
+Немає 
 STR_TO_REFUEL
- для
+ для 
 STR_TO_REARM
- для
+ для 
 STR_AT_
- на
+ на 
 STR_UFO_IS_NOT_RECOVERED
 НЛО не захплений
 STR_UFO_IS_RECOVERED
@@ -504,223 +504,223 @@ STR_NOT_ENOUGH_LIVING_SPACE
 STR_NO_MORE_EQUIPMENT_ALLOWED_ON_BOARD
 ЗАБАГАТО СПОРЯДЖЕННЯ!{SMALLLINE}На завдання можна взяти не більше ніж 80 одиниць спорядження.
 STR_LAUNCH_INTERCEPTION
-LAUNCH INTERCEPTION
+ПОЧАТИ ПЕРЕХОПЛЕННЯ
 STR_CRAFT
-CRAFT
+КОРАБЕЛЬ
 STR_STATUS
-STATUS
+СТАТУС
 STR_BASE
-BASE
+БАЗА
 STR_READY
-READY
+ГОТОВИЙ
 STR_OUT
-OUT
+НА ВИЛЬОТІ
 STR_REPAIRS
-REPAIRS
+РЕМОНТ
 STR_REFUELLING
-REFUELING
+ЗАПРАВКА
 STR_REARMING
-REARMING
+ПЕРЕЗАРЯДКА
 STR_TARGET
-TARGET:
+ЦІЛЬ:
 STR_TARGET_WAY_POINT
-TARGET: WAY POINT
+ЦІЛЬ: ВКАЗАНА ТОЧКА
 STR_ARE_YOU_SURE_CYDONIA
-Are you sure you want to send this craft on a mission to Cydonia?
+Ви впевнені, що бажаєте відправити експедицію на Кідонію?
 STR_YES
-YES
+ТАК
 STR_NO
-NO
+НІ
 STR_SELECT_DESTINATION
-SELECT DESTINATION
+ВИБЕРІТЬ ЦІЛЬ
 STR_CYDONIA
-CYDONIA
+КІДОНІЯ
 STR_SELECT_SITE_FOR_NEW_BASE
-SELECT SITE FOR NEW BASE
+ВИБЕРІТЬ МІСЦЕ ДЛЯ НОВОЇ БАЗИ
 STR_RETURN_TO_BASE
-RETURN TO BASE
+ПОВЕРНУТИСЬ НА БАЗУ
 STR_SELECT_NEW_TARGET
-SELECT NEW TARGET
+ОБРАТИ НОВУ ЦІЛЬ
 STR_PATROL
-PATROL
+ПАТРУЛЮВАТИ
 STR_STATUS_
-STATUS>
+СТАТУС>
 STR_DAMAGED_RETURNING_TO_BASE
-DAMAGED - RETURNING TO BASE
+ПОШКОДЖЕННЯ - ПОВЕРТАЮСЬ НА БАЗУ
 STR_LOW_FUEL_RETURNING_TO_BASE
-LOW FUEL - RETURNING TO BASE
+МАЛО ПАЛЬНОГО - ПОВЕРТАЮСЬ НА БАЗУ
 STR_PATROLLING
-PATROLLING
+ПАТРУЛЮВАННЯ
 STR_TAILING_UFO
-TAILING UFO
+ПЕРЕСЛІДУВАННЯ НЛО
 STR_INTERCEPTING_UFO
-INTERCEPTING UFO-
+ПЕРЕХОПЛЕННЯ НЛО-
 STR_RETURNING_TO_BASE
-RETURNING TO BASE
+ПОВЕРНЕННЯ НА БАЗУ
 STR_DESTINATION_UC
-DESTINATION:
+ПУНКТ ПРИЗНАЧЕННЯ: 
 STR_SPEED_
-SPEED>
+ШВИДКІСТЬ>
 STR_MAXIMUM_SPEED_UC
-MAXIMUM SPEED>
+МАКСИМАЛЬНА ШВИДКІСТЬ>
 STR_ALTITUDE_
-ALTITUDE>
+ВИСОТА>
 STR_VERY_LOW
-VERY LOW
+ДУЖЕ МАЛА
 STR_LOW_UC
-LOW
+МАЛА
 STR_HIGH_UC
-HIGH
+ВЕЛИКА
 STR_VERY_HIGH
-VERY HIGH
+ДУЖЕ VERY HIGH
 STR_FUEL
-FUEL>
+ПАЛЬНЕ>
 STR_WEAPON_1
-WEAPON-1>
+ЗБРОЯ-1>
 STR_NONE_UC
-NONE
+НЕМАЄ
 STR_ROUNDS_
-ROUNDS>
+БОЄЗАПАС>
 STR_WEAPON_2
-WEAPON-2>
+ЗБРОЯ-2>
 STR_HOSTILE
-HOSTILE
+ВОРОЖИЙ
 STR_NEUTRAL
-NEUTRAL
+НЕЙТРАЛЬНИЙ
 STR_FRIENDLY
-FRIENDLY
+ДРУЖНІЙ
 STR_COMMITTED
-COMMITTED
+ВІДДАНИЙ
 STR_GAME_OPTIONS
-GAME OPTIONS
+НАЛАШТУВАННЯ
 STR_LOAD_GAME
-LOAD GAME
+ЗАВАНТАЖИТИ ГРУ
 STR_SAVE_GAME
-SAVE GAME
+ЗБЕРЕГТИ ГРУ
 STR_INTERCEPTION_CRAFT
-INTERCEPTION CRAFT
+Виберіть корабель
 STR_BASE_
-Base>
+База>
 STR_NAME_UC
-NAME
+ІМ'Я
 STR_AMMO_
-AMMO>
+ЗБРОЯ>
 STR_CREW
-CREW
+ЕКІПАЖ
 STR_EQUIPMENT_UC
-EQUIPMENT
+СПОРЯДЖЕННЯ
 STR_ARMOR
-ARMOR
+БРОНЯ
 STR_MAX
-MAX>
+МАКС>
 STR_ROOKIE
-Rookie
+Новобранець
 STR_SQUADDIE
-Squaddie
+Рядовий
 STR_SERGEANT
-Sergeant
+Сержант
 STR_CAPTAIN
-Captain
+Капітан
 STR_COLONEL
-Colonel
+Полковник
 STR_COMMANDER
-Commander
+Командуючий
 STR_SELECT_SQUAD_FOR
-Select Squad for
+Команда для 
 STR_SPACE_AVAILABLE
-SPACE AVAILABLE>
+МІСЦЯ ДОСТУПНО>
 STR_SPACE_USED
-SPACE USED>
+МІСЦЯ ЗАЙНЯТО>
 STR_RANK
-RANK
+ЗВАННЯ
 STR_WOUNDED
-WOUNDED
+ПОРАНЕННЯ
 STR_EQUIPMENT_FOR
-Equipment for
+Спорядження для 
 STR_ARM
-Arm
+Зброя
 STR_DEFENSE_VALUE
-Defense Value
+Ступінь Захисту
 STR_HIT_RATIO
-Hit Ratio
+Точність
 STR_READY_TO_LAND_NEAR
-ready to{NEWLINE}land near
+готовий до{NEWLINE}посадки коло
 STR_BEGIN_MISSION
-Begin Mission?
+Почати Операцію?
 STR_SELECT_ARMAMENT
-Select Armament
+Виберіть Зброю
 STR_AMMUNITION_UC
-AMMUNITION
+БОЄЗАПАС
 STR_ARMAMENT
-ARMAMENT
+ЗБРОЯ
 STR_AVAILABLE
-AVAILABLE
+ДОСТУПНО
 STR_NOT_AVAILABLE
-N.A.
+НЕМАЄ
 STR_SELECT_ARMOR_FOR
-SELECT ARMOR FOR
+ВИБЕРІТЬ БРОНЮ ДЛЯ
 STR_TYPE
-TYPE
+ТИП
 STR_PERSONAL_ARMOR_UC
-PERSONAL ARMOR
+БРОНЕКОСТЮМ
 STR_POWER_SUIT_UC
-POWER SUIT
+ЕНЕРГОСКАФАНДР
 STR_FLYING_SUIT_UC
-FLYING SUIT
+ЛІТАЮЧИЙ СКАФАНДР
 STR_SELECT_ARMOR
-Select Armor
+Виберіть Броню
 STR_NORTH
-NORTH
+ПІВНІЧ
 STR_NORTH_EAST
-NORTH EAST
+ПІВНІЧНИЙ СХІД
 STR_EAST
-EAST
+СХІД
 STR_SOUTH_EAST
-SOUTH EAST
+ПІВДЕННИЙ СХІД
 STR_SOUTH
-SOUTH
+ПІВДЕНЬ
 STR_SOUTH_WEST
-SOUTH WEST
+ПІВДЕННИЙ ЗАХІД
 STR_WEST
-WEST
+ЗАХІД
 STR_NORTH_WEST
-NORTH WEST
+ПІВНІЧНИЙ ЗАХІД
 STR_SELECT_ACTION
-SELECT ACTION
+ВИБЕРІТЬ ЗАВДАННЯ
 STR_CONTINUE_INTERCEPTION_PURSUIT
-CONTINUE INTERCEPTION PURSUIT
+ПРОДОВЖИТИ ПЕРЕХОПЛЕННЯ
 STR_PURSUE_WITHOUT_INTERCEPTION
-PURSUE WITHOUT INTERCEPTION
+ПЕРЕСЛІДУВАТИ БЕЗ ПЕРЕХОПЛЕННЯ
 STR_VERY_LARGE
-VERY LARGE
+ДУЖЕ ВЕЛИКИЙ
 STR_LARGE
-LARGE
+ВЕЛИКИЙ
 STR_MEDIUM_UC
-MEDIUM
+СЕРЕДНІЙ
 STR_SMALL
-SMALL
+МАЛИЙ
 STR_VERY_SMALL
-VERY SMALL
+ДУЖЕ МАЛИЙ
 STR_GROUND
-GROUND
+НА ЗЕМЛІ
 STR_DETECTED
-Detected
+Виявлено
 STR_SIZE_UC
-SIZE
+РОЗМІР
 STR_ALTITUDE
-ALTITUDE
+ВИСОТА
 STR_HEADING
-HEADING
+НАПРЯМ
 STR_SPEED
-SPEED
+ШВИДКІСТЬ
 STR_CENTER_ON_UFO_TIME_5_SECS
-CENTER ON UFO-TIME=5 Secs
+ЦЕНТР НА НЛО, ЧАС=5 Сек
 STR_TRACKING_LOST
-TRACKING LOST
+ВТРАЧЕНО
 STR_REDIRECT_CRAFT
-REDIRECT CRAFT
+ПЕРЕНАПРАВИТИ КОРАБЕЛЬ
 STR_GO_TO_LAST_KNOWN_UFO_POSITION
-GO TO LAST KNOWN UFO POSITION
+ЛЕТІТИ ДО ОСТАННЬОЇ ВІДОМОЇ ПОЗИЦІЇ НЛО
 STR_UFO_
 UFO-
 STR_ALIEN_BASE_
