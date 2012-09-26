@@ -374,13 +374,13 @@ STR_FRIDAY
 STR_SATURDAY
 СУБОТА
 STR_NOT_ENOUGH
-Немає 
+Немає
 STR_TO_REFUEL
- для 
+ для
 STR_TO_REARM
- для 
+ для
 STR_AT_
- на 
+ на
 STR_UFO_IS_NOT_RECOVERED
 НЛО не захплений
 STR_UFO_IS_RECOVERED
@@ -406,7 +406,7 @@ STR_ALIEN_CORPSES_RECOVERED
 STR_LIVE_ALIENS_RECOVERED
 ЖИВИХ ПРИБУЛЬЦIВ ЗНАЙДЕНО
 STR_ALIEN_ARTIFACTS_RECOVERED
-СПОРЯДЖЕННЯ ПРИБУЛЬЦIВ ЗНАЙДЕНО
+АРТЕФАКТIВ ПРИБУЛЬЦIВ ЗНАЙДЕНО
 STR_ALIEN_BASE_CONTROL_DESTROYED
 БАЗА ПРИБУЛЬЦIВ ЗНИЩЕНА
 STR_CIVILIANS_KILLED_BY_ALIENS
@@ -558,7 +558,7 @@ STR_INTERCEPTING_UFO
 STR_RETURNING_TO_BASE
 ПОВЕРНЕННЯ НА БАЗУ
 STR_DESTINATION_UC
-ПУНКТ ПРИЗНАЧЕННЯ: 
+ПУНКТ ПРИЗНАЧЕННЯ:
 STR_SPEED_
 ШВИДКIСТЬ>
 STR_MAXIMUM_SPEED_UC
@@ -572,7 +572,7 @@ STR_LOW_UC
 STR_HIGH_UC
 ВЕЛИКА
 STR_VERY_HIGH
-ДУЖЕ VERY HIGH
+ДУЖЕ ВЕЛИКА
 STR_FUEL
 ПАЛЬНЕ>
 STR_WEAPON_1
@@ -626,7 +626,7 @@ STR_COLONEL
 STR_COMMANDER
 Командуючий
 STR_SELECT_SQUAD_FOR
-Команда для 
+Команда для
 STR_SPACE_AVAILABLE
 МIСЦЯ ДОСТУПНО>
 STR_SPACE_USED
@@ -636,7 +636,7 @@ STR_RANK
 STR_WOUNDED
 ПОРАНЕННЯ
 STR_EQUIPMENT_FOR
-Спорядження для 
+Спорядження для
 STR_ARM
 Зброя
 STR_DEFENSE_VALUE
@@ -722,139 +722,139 @@ STR_REDIRECT_CRAFT
 STR_GO_TO_LAST_KNOWN_UFO_POSITION
 ЛЕТIТИ ДО ОСТАННЬОÏ ВIДОМОÏ ПОЗИЦIÏ НЛО
 STR_UFO_
-UFO-
+НЛО-
 STR_ALIEN_BASE_
-ALIEN BASE-
+БАЗА ПРИБУЛЬЦIВ-
 STR_CRASH_SITE_
-CRASH SITE-
+МIСЦЕ АВАРIÏ-
 STR_LANDING_SITE_
-LANDING SITE-
+МIСЦЕ ПОСАДКИ-
 STR_WAY_POINT_
-WAY POINT-
+ВКАЗАНА ТОЧКА-
 STR_TERROR_SITE_UC
-TERROR SITE-
+МIСЦЕ ТЕРОРУ-
 STR_HAS_REACHED
-has reached
+досяг
 STR_DESTINATION
-Destination
+Пункт призначення
 STR_NOW_PATROLLING
-Now patrolling
+Патрулювання
 STR_ALIEN_ORIGINS
-Alien Origins
+Походження Прибульцiв
 STR_THE_MARTIAN_SOLUTION
-The Martian Solution
+Вирiшення Марсiанського питання
 STR_CYDONIA_OR_BUST
-Cydonia or Bust
+Кiдонiя або Нiчого
 STR_UFOPAEDIA
-UFOpedia
+НЛОпедiя
 STR_XCOM_CRAFT_ARMAMENT
-XCOM CRAFT & ARMAMENT
+КОРАБЛI X-COM I ÏХ ОЗБРОЄННЯ
 STR_HEAVY_WEAPONS_PLATFORMS
-HEAVY WEAPONS PLATFORMS
+ВАЖКI БОЙОВI ПЛАТФОРМИ (ВБП)
 STR_WEAPONS_AND_EQUIPMENT
-WEAPONS AND EQUIPMENT
+ЗБРОЯ I СПОРЯДЖЕННЯ
 STR_ALIEN_ARTIFACTS
-ALIEN ARTIFACTS
+АРТЕФАКТИ ПРИБУЛЬЦIВ
 STR_BASE_FACILITIES
-BASE FACILITIES
+МОДУЛI БАЗИ
 STR_ALIEN_LIFE_FORMS
-ALIEN LIFE FORMS
+ПОЗАЗЕМНI ФОРМИ ЖИТТЯ
 STR_ALIEN_RESEARCH_UC
-ALIEN RESEARCH
+ДIЯЛЬНIСТЬ ПРИБУЛЬЦIВ
 STR_UFO_COMPONENTS
-UFO COMPONENTS
+КОМПОНЕНТИ НЛО
 STR_UFOS
-UFOs
+НЛО
 STR_SELECT_ITEM
-SELECT ITEM
+ВИБЕРIТЬ ПРЕДМЕТ
 STR_AUTOPSY
- autopsy
+ пiсля розтину
 STR_ACCELERATION
-ACCELERATION>
+ПРИСКОРЕННЯ>
 STR_FUEL_CAPACITY
-FUEL CAPACITY>
+ЗАПАС ПАЛЬНОГО>
 STR_WEAPON_PODS
-WEAPON PODS>
+ПIДВIСОК ДЛЯ ЗБРОÏ>
 STR_DAMAGE_CAPACITY_UC
-DAMAGE CAPACITY>
+РIВЕНЬ ЗАХИСТУ>
 STR_CARGO_SPACE
-CARGO SPACE>
+ОБ'ЄМ ВАНТАЖНОГО ВIДСIКУ>
 STR_HWP_CAPACITY
-HWP CAPACITY>
+КIЛЬКIСТЬ ВБП>
 STR_DAMAGE
-Damage
+Пошкодження
 STR_RANGE
-Range
+Радiус ураження
 STR_KM
- km
+ км
 STR_ACCURACY
-Accuracy
+Точнiсть
 STR_RE_LOAD_TIME
-Re-load time
+Час перезарядки
 STR_S
-s
+с
 STR_ARMOR_PIERCING
-ARMOR PIERCING
+БРОНЕБIЙНИЙ
 STR_INCENDIARY
-INCENDIARY
+ЗАПАЛЮВАЛЬНI
 STR_HIGH_EXPLOSIVE_UC
-HIGH EXPLOSIVE
+ВИБУХОВИЙ
 STR_LASER_BEAM
-LASER BEAM
+ЛАЗЕРНИЙ ПРОМIНЬ
 STR_PLASMA_BEAM_UC
-PLASMA BEAM
+ПЛАЗМОВИЙ ПРОМIНЬ
 STR_STUN_UC
-STUN
+ПАРАЛIЗАЦIЯ
 STR_SHOT_TYPE
-SHOT TYPE
+ТИП ПОСТРIЛУ
 STR_ACCURACY_UC
-ACCURACY
+ТОЧНIСТЬ
 STR_TU_COST
-TU COST
+ЧАС
 STR_DAMAGE_UC
-DAMAGE
+ПОШКОДЖЕННЯ
 STR_AMMO
-AMMO
+ЗАРЯД
 STR_AUTO
-Auto
+Черга
 STR_SNAP
-Snap
+Поспiхом
 STR_AIMED
-Aimed
+Прицiльно
 STR_CONSTRUCTION_TIME
-Construction Time
+Час будiвництва
 STR_CONSTRUCTION_COST
-Construction Cost
+Вартiсть будiвництва
 STR_MAINTENANCE_COST
-Maintenance Cost
+Вартiсть утримання
 STR_LOW
-Low
+Низький
 STR_MEDIUM
-Medium
+Середнiй
 STR_HIGH
-High
+Високий
 STR_CRAFT_WEAPON
-Craft Weapon
+Озброєння Кораблiв
 STR_CRAFT_AMMUNITION
-Craft Ammunition
+Боєприпаси Кораблiв
 STR_HEAVY_WEAPONS_PLATFORM
-Heavy Weapons Platform
+Важка Бойова Платформа
 STR_WEAPON
-Weapon
+Зброя
 STR_AMMUNITION
-Ammunition
+Боєприпаси
 STR_EQUIPMENT
-Equipment
+Спорядження
 STR_ALIEN_CORPSE
-Alien Corpse
+Труп прибульця
 STR_UFO_COMPONENT
-UFO component
+Компонент НЛО
 STR_PERSONAL_ARMOR
-Personal Armor
+Бронекостюм
 STR_RAW_MATERIALS
-Raw Materials
+Вихiднi Матерiали
 STR_HWP_CANNON_SHELLS
-HWP Cannon Shells
+Гарматнi снаряди ВБП
 STR_ALIEN
 Прибулець
 STR_SECTOID
@@ -898,99 +898,99 @@ STR_UFO_POWER_SOURCE
 STR_UFO_NAVIGATION
 Навiгацiя НЛО
 STR_UFO_CONSTRUCTION
-UFO Construction
+Конструкцiя НЛО
 STR_ALIEN_FOOD
-Alien Food
+Ïжа Прибульцiв
 STR_ALIEN_REPRODUCTION
-Alien Reproduction
+Iнкубатор Прибульцiв
 STR_ALIEN_ENTERTAINMENT
-Alien Entertainment
+Розваги Прибульцiв
 STR_ALIEN_SURGERY
-Alien Surgery
+Хiрургiя Прибульцiв
 STR_EXAMINATION_ROOM
-Examination Room
+Кiмната Допиту
 STR_ALIEN_ALLOYS
-Alien Alloys
+Сплави Прибульцiв
 STR_ALIEN_HABITAT
-Alien Habitat
+Мiсце  Проживання Прибульцiв
 STR_POWER_SUIT
-Power Suit
+Енергоскафандр
 STR_FLYING_SUIT
-Flying Suit
+Лiтаючий Скафандр
 STR_HWP_ROCKETS
-HWP Rockets
+Ракета ВБП
 STR_HWP_FUSION_BOMB
-HWP Fusion Bomb
+Бластер-ракета ВБП
 STR_LASER_WEAPONS
-Laser Weapons
+Лазерна Зброя
 STR_NEW_FIGHTER_CRAFT
-New Fighter Craft
+Новий Винищувач
 STR_NEW_FIGHTER_TRANSPORTER
-New Fighter-Transporter
+Новий Винищувач/Транспорт
 STR_ULTIMATE_CRAFT
-Ultimate Craft
+"Месник" (Винищувач/Транспорт)
 STR_LASER_PISTOL
-Laser Pistol
+Лазерний Пiстолет
 STR_LASER_RIFLE
-Laser Rifle
+Лазерна Гвинтiвка
 STR_HEAVY_LASER
-Heavy Laser
+Важкий Лазер
 STR_LASER_CANNON
-Laser Cannon
+Лазерна Гармата
 STR_PLASMA_CANNON
-Plasma Cannon
+Плазмова Гармата
 STR_FUSION_MISSILE
-Fusion Missile
+Бластерна Ракета
 STR_LASER_DEFENSE
-Laser Defense
+Лазерна система ППО
 STR_PLASMA_DEFENSE
-Plasma Defense
+Плазмова система ППО
 STR_FUSION_DEFENSE
-Fusion Defense
+Бластерна система ППО
 STR_GRAV_SHIELD
-Grav Shield
+Гравiтацiйний Щит
 STR_MIND_SHIELD
-Mind Shield
+Ментальний Щит
 STR_PSI_LAB
-Psi-Lab
+Псi-Лабораторiя
 STR_MOTION_SCANNER
-Motion Scanner
+Сканер Руху
 STR_MEDI_KIT
-Medi-Kit
+Мед-Комплект
 STR_TANK_CANNON
-Tank/Cannon
+Танк/Гармата
 STR_TANK_ROCKET_LAUNCHER
-Tank/Rocket Launcher
+Танк/Ракетна установка
 STR_TANK_LASER_CANNON
-Tank/Laser Cannon
+Танк/Лазерна гармата
 STR_HOVERTANK_PLASMA
-Hovertank/Plasma
+Плазмовий Ховертанк
 STR_HOVERTANK_LAUNCHER
-Hovertank/Launcher
+Бластерний Ховертанк
 STR_STINGRAY_LAUNCHER
-Stingray Launcher
+Пускова установка "Скат"
 STR_AVALANCHE_LAUNCHER
-Avalanche Launcher
+Пускова установка "Лавина"
 STR_CANNON
-Cannon
+Гармата
 STR_FUSION_BALL_LAUNCHER
-Fusion Ball Launcher
+Бластерна Гармата
 STR_PLASMA_BEAM
-Plasma Beam
+Плазмова Гармата
 STR_STINGRAY_MISSILES
-Stingray Missiles
+Ракета "Скат"
 STR_AVALANCHE_MISSILES
-Avalanche Missiles
+Ракета "Лавина"
 STR_CANNON_ROUNDS_X50
-Cannon Rounds(x50)
+Снаряди для Авiагармати(x50)
 STR_FUSION_BALL
-Fusion Ball
+Бластерний Снаряд
 STR_SOLDIER
-Soldier
+Солдат
 STR_SCIENTIST
-Scientist
+Вчений
 STR_ENGINEER
-Engineer
+Iнженер
 STR_NORTH_AMERICA
 North America
 STR_ARCTIC
