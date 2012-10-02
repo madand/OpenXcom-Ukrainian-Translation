@@ -374,13 +374,13 @@ STR_FRIDAY
 STR_SATURDAY
 СУБОТА
 STR_NOT_ENOUGH
-Немає
+Немає 
 STR_TO_REFUEL
- для
+ для 
 STR_TO_REARM
- для
+ для 
 STR_AT_
- на
+ на 
 STR_UFO_IS_NOT_RECOVERED
 НЛО не захплений
 STR_UFO_IS_RECOVERED
@@ -558,7 +558,7 @@ STR_INTERCEPTING_UFO
 STR_RETURNING_TO_BASE
 ПОВЕРНЕННЯ НА БАЗУ
 STR_DESTINATION_UC
-ПУНКТ ПРИЗНАЧЕННЯ:
+ПУНКТ ПРИЗНАЧЕННЯ: 
 STR_SPEED_
 ШВИДКІСТЬ>
 STR_MAXIMUM_SPEED_UC
@@ -626,7 +626,7 @@ STR_COLONEL
 STR_COMMANDER
 Командуючий
 STR_SELECT_SQUAD_FOR
-Команда для
+Команда для 
 STR_SPACE_AVAILABLE
 МІСЦЯ ДОСТУПНО>
 STR_SPACE_USED
@@ -636,7 +636,7 @@ STR_RANK
 STR_WOUNDED
 ПОРАНЕННЯ
 STR_EQUIPMENT_FOR
-Спорядження для
+Спорядження для 
 STR_ARM
 Зброя
 STR_DEFENSE_VALUE
@@ -992,85 +992,85 @@ STR_SCIENTIST
 STR_ENGINEER
 Інженер
 STR_NORTH_AMERICA
-North America
+Північна Америка
 STR_ARCTIC
-Arctic
+Арктика
 STR_ANTARCTICA
-Antarctica
+Антарктика
 STR_SOUTH_AMERICA
-South America
+Південна Америка
 STR_EUROPE
-Europe
+Європа
 STR_NORTH_AFRICA
-North Africa
+Північна Африка
 STR_SOUTHERN_AFRICA
-Southern Africa
+Південна Африка
 STR_CENTRAL_ASIA
-Central Asia
+Центральна Азія
 STR_SOUTH_EAST_ASIA
-South East Asia
+Південно-Східна Азія
 STR_SIBERIA
-Siberia
+Сибір
 STR_AUSTRALASIA
-Australasia
+Австралія
 STR_PACIFIC
-Pacific
+Тихий Океан
 STR_NORTH_ATLANTIC
-North Atlantic
+Північна Атлантика
 STR_SOUTH_ATLANTIC
-South Atlantic
+Південна Атлантика
 STR_INDIAN_OCEAN
-Indian Ocean
+Індійський Океан
 STR_ALIEN_RESEARCH
-Alien Research
+Дослідження
 STR_ALIEN_HARVEST
-Alien Harvest
+Збір Врожаю
 STR_ALIEN_ABDUCTION
-Alien Abduction
+Викрадення
 STR_ALIEN_INFILTRATION
-Alien Infiltration
+Проникнення
 STR_ALIEN_BASE
-Alien Base
+База Прибульців
 STR_ALIEN_TERROR
-Alien Terror
+Терор
 STR_ALIEN_RETALIATION
-Alien Retaliation
+Удар у відповідь
 STR_ALIEN_SUPPLY
-Alien Supply
+Постачання Прибульців
 STR_POWER_SOURCES
-Power Sources
+Джерела Енергії
 STR_MAXIMUM_SPEED
-Maximum Speed
+Макс. швидкість
 STR_HYPER_WAVE_DECODER_UC
-HYPER-WAVE DECODER
+ГІПЕРХВИЛЬОВИЙ ДЕКОДЕР
 STR_SKYRANGER
-SKYRANGER
+РЕЙНДЖЕР
 STR_LIGHTNING
-LIGHTNING
+БЛИСКАВКА
 STR_AVENGER
-AVENGER
+МЕСНИК
 STR_INTERCEPTOR
-INTERCEPTOR
+ПЕРЕХОПЛЮВАЧ
 STR_FIRESTORM
-FIRESTORM
+ВОГНЯНИЙ ШТОРМ
 STR_UFO
-UFO
+НЛО
 STR_STINGRAY
-STINGRAY
+СКАТ
 STR_AVALANCHE
-AVALANCHE
+ЛАВИНА
 STR_CANNON_UC
-CANNON
+ГАРМАТА
 STR_FUSION_BALL_UC
-FUSION BALL
+БЛАСТЕРНА ГАРМАТА
 STR_LASER_CANNON_UC
-LASER CANNON
+ЛАЗЕРНА ГАРМАТА
 STR_DAMAGE_CAPACITY
-Damage Capacity
+Рівень Захисту
 STR_WEAPON_POWER
-Weapon Power
+Потужність Зброї
 STR_WEAPON_RANGE
-Weapon Range
+Дальність Зброї
 STR_ACCESS_LIFT
 Вхідний Ліфт
 STR_LABORATORY
@@ -1100,91 +1100,91 @@ STR_HYPER_WAVE_DECODER
 STR_HANGAR
 Ангар
 STR_USA
-USA
+США
 STR_RUSSIA
-RUSSIA
+РОСІЯ
 STR_UK
-UK
+ВЕЛИКА БРИТАНІЯ
 STR_FRANCE
-FRANCE
+ФРАНЦІЯ
 STR_GERMANY
-GERMANY
+НІМЕЧЧИНА
 STR_ITALY
-ITALY
+ІТАЛІЯ
 STR_SPAIN
-SPAIN
+ІСПАНІЯ
 STR_CHINA
-CHINA
+КИТАЙ
 STR_JAPAN
-JAPAN
+ЯПОНІЯ
 STR_INDIA
-INDIA
+ІНДІЯ
 STR_BRAZIL
-BRAZIL
+БРАЗИЛІЯ
 STR_AUSTRALIA
-AUSTRALIA
+АВСТРАЛІЯ
 STR_NIGERIA
-NIGERIA
+НІГЕРІЯ
 STR_SOUTH_AFRICA
-SOUTH AFRICA
+ПІВДЕННА АФРИКА
 STR_EGYPT
-EGYPT
+ЄГИПЕТ
 STR_CANADA
-CANADA
+КАНАДА
 STR_FLOATER_SOLDIER
-Floater Soldier
+Летун Солдат
 STR_FLOATER_NAVIGATOR
-Floater Navigator
+Летун Навігатор
 STR_FLOATER_MEDIC
-Floater Medic
+Летун Медик
 STR_FLOATER_ENGINEER
-Floater Engineer
+Летун Інженер
 STR_FLOATER_LEADER
-Floater Leader
+Летун Лідер
 STR_FLOATER_COMMANDER
-Floater Commander
+Летун Командуючий
 STR_TANK
-Tank
+Танк
 STR_CIVILIAN
-Civilian
+Цивільний
 STR_JAN
-Jan
+Січ
 STR_FEB
-Feb
+Лют
 STR_MAR
-Mar
+Бер
 STR_APR
-Apr
+Кві
 STR_MAY
-May
+Тра
 STR_JUN
-Jun
+Чер
 STR_JUL
-Jul
+Лип
 STR_AUG
-Aug
+Сер
 STR_SEP
-Sep
+Вер
 STR_OCT
-Oct
+Жов
 STR_NOV
-Nov
+Лис
 STR_DEC
-Dec
+Гру
 STR_INTERNATIONAL_RELATIONS
-International Relations
+     Учасники Проекту
 STR_COUNTRY
-Country
+Країна
 STR_FUNDING
-Funding
+Фонди
 STR_CHANGE
-Change
+Зміна
 STR_WEAPON_SYSTEMS
-WEAPON{NEWLINE}SYSTEMS
+ЗБРОЙНІ{NEWLINE}СИСТЕМИ
 STR_HWPS
-HWPs
+ВБП
 STR_DAMAGE_UC_
-DAMAGE>
+ПОШКОДЖЕННЯ>
 STR_ACCESS_LIFT_UFOPEDIA
 The access lift allows equipment and personnel to be transferred into or out of an underground base.  It is always the first facility to be constructed on a new site.  The lift area is vulnerable to intrusion from any potential hostile force.
 STR_LIVING_QUARTERS_UFOPEDIA
