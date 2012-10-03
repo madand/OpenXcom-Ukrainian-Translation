@@ -1186,41 +1186,41 @@ STR_HWPS
 STR_DAMAGE_UC_
 ПОШКОДЖЕННЯ>
 STR_ACCESS_LIFT_UFOPEDIA
-The access lift allows equipment and personnel to be transferred into or out of an underground base.  It is always the first facility to be constructed on a new site.  The lift area is vulnerable to intrusion from any potential hostile force.
+Вхiдний лiфт використовується для доставки персоналу та обладнання в пiдземну базу. Створення новоï бази починається з будiвництва цього модуля. Лiфт вразливий для проникнення потенцiйного противника.
 STR_LIVING_QUARTERS_UFOPEDIA
-Each accommodation block provides for up to 50 personnel.  The facility provides basic recreation, food and sleeping areas.
+Житловий блок забезпечує розмiщення до 50 чоловiк. Тут знаходяться кiмната вiдпочинку, ïдальня та спальнi примiщення.
 STR_LABORATORY_UFOPEDIA
-Up to 50 scientists can work in a laboratory facility.  Laboratories are equipped with the latest technology for research into materials, biochemistry and cosmology.  There is privileged access to the best research labs throughout the world, including military establishments.
+В лабораторiï можуть працювати до 50 вчених. Лабораторiï оснащенi найсучаснiшими технологiями для проведення фiзичних, бiохiмiчних та космологiчних дослiджень. Передбачений зв'язок з кращими дослiдницькими центрами свiту, включаючи вiйськовi установи.
 STR_WORKSHOP_UFOPEDIA
-A workshop contains all the equipment necessary to manufacture equipment based on designs from the science labs.  Up to 50 engineers can occupy a workshop, although items under construction will also consume some space.
+Майстерня обладнана всiм необхiдним для виробництва спорядження i технiки, розробленоï в лабораторiях. В майстернi можуть працювати до 50 iнженерiв, в залежностi вiд того скiльки мiсця займає обладнання, яке виготовляють.
 STR_SMALL_RADAR_SYSTEM_UFOPEDIA
-A small detection system has an effective radar range of 300 nautical miles and is linked to satellite systems for ground search.  Each system has a 5% chance of detecting an average sized object every 10 minutes.
+Радарна система ближнього виявлення має ефективний радiус дiï в 550 кiлометрiв, i зв'язана зi супутниковими системами для пошуку наземних об'єктiв. Кожна така система виявляє цiль середнього розмiру з ймовiрнiстю 5% кожнi 10 хвилин. Можлива спiльна робота кiлькох радарних блокiв, що збiльшує шанси на виявлення цiлей.
 STR_LARGE_RADAR_SYSTEM_UFOPEDIA
-A large detection system has an effective range of 450 nautical miles and is linked to satellite systems for ground search.  Each system has a 5% chance of detecting an average sized object every 10 minutes.
+Радарна система дальнього виявлення має ефективний радiус дiï в 830 кiлометрiв, i зв'язана зi супутниковими системами для пошуку наземних об'єктiв. Кожна така система виявляє цiль середнього розмiру з ймовiрнiстю 5% кожнi 10 хвилин. Можлива спiльна робота кiлькох радарних блокiв, що збiльшує шанси на виявлення цiлей.
 STR_MISSILE_DEFENSES_UFOPEDIA
-Missile defenses provide some protection against incursion by hostile craft which are attempting to land near the base.
+Ракетна система ППО забезпечує деякий захист проти лiтальних апаратiв, якi намагаються сiсти неподалiк вiд бази.
 STR_GENERAL_STORES_UFOPEDIA
-All equipment, weapons systems, munitions, recovered material and Heavy Weapons Platforms are placed in stores, with the exception of equipment assigned to craft in hangars.
+Все спорядження, збройнi системи, боєприпаси, добутi матерiли та Важкi Бойовi Платформи розмiщуються в сховищах (за вийнятком кораблiв, якi розмiщуються в ангарах).
 STR_ALIEN_CONTAINMENT_UFOPEDIA
-Living aliens are likely to require a special habitat to maintain their life systems.  The containment facility can keep up to 10 alien life forms in self-contained units.
+Для пiдтримання життєдiяльностi прибульцiв необхiднi спецiальнi умови. Тюрма для прибульцiв дозволяє безпечно утримувати до 10 iнопланетних органiзмiв в iзольованих камерах.
 STR_LASER_DEFENSES_UFOPEDIA
-Laser defenses provide protection against incursion by hostile craft.
+Лазерна система протиповiтряноï оборони (ППО) забазпечує захист проти ворожих лiтальних апаратiв.
 STR_PLASMA_DEFENSES_UFOPEDIA
-Plasma beam defenses provide powerful and efficient protection against incursion by hostile craft.
+Плазмо-променева система протиповiтряноï оборони (ППО) забезпечує ефективний захист проти ворожих лiтальних апаратiв.
 STR_FUSION_BALL_DEFENSES_UFOPEDIA
-Fusion missiles provide the most effective defense against alien attacks.  These missiles create an anti-matter implosion which destroys everything within a specific radius.
+Бластер-ракети забезпечують найбiльш ефективний захист проти атак прибульцiв. Пiд час вибуху цi ракети викидають антиматерiю, яка, аннiгiлюючи, знищує все в певному радiусi.
 STR_GRAV_SHIELD_UFOPEDIA
-The Gravity shield repels alien craft attempting to land near the base long enough for all defense systems to fire again.  In practice this will double the effectiveness of any defense systems at your base.
+Гравiтацiйний щит вiдштовхує лiтальнi апарати противника при спробi сiсти неподалiк вiд бази, даючи можливiсть захисним системам вистрелити знову. Це фактично подвоює ефективнiсть систем ППО бази. 
 STR_MIND_SHIELD_UFOPEDIA
-Since alien craft rely on brain waves to detect human presence then the most effective counter measure is to shield brain waves from the base.  This facility will drastically reduce the chances of detection by alien craft.
+Для виявлення присутностi людей прибульцi покладаються на характернi хвилi, якi випромiнює людський мозок. Ментальний щит екранує цi мозковi хвилi, сильно зменшуючи ймовiрнiсть виявлення противником.
 STR_PSIONIC_LABORATORY_UFOPEDIA
-The psionics lab can assess the psionic potential of all soldiers at the base and give them the necessary training to utilize their psionic skills.  Each lab can train up to ten soldiers.  Training is allocated at the end of each month.  Psionic skills used in conjunction with a Psi-amp can be used for psionic attacks during combat.
+Псi-лабораторiя дозволяє провести оцiнку псiонiчного потенцiалу всiх бiйцiв на базi, а також необхiдне для розвитку псi-навикiв навчання. Кожна лабораторiя може тренувати до 10 чоловiк одночасно, розподiл на тренування вiдбувається в кiнцi мiсяця. Для бойового використання псiонiчних навикiв необхiдно спорядити бiйцiв псi-пiдсилювачами.
 STR_HYPER_WAVE_DECODER_UFOPEDIA
-Alien communications rely on a supra-dimensional wave which travels almost instantaneously.  The decoder facility intercepts UFO transmissions and decodes the information.  This will show the type of UFO, the alien race and the type of activity.
+Засоби зв'язку прибульцiв базуються на використаннi гiперпросторових хвиль, якi поширюються майже миттєво. Декодер дозволяє здiйснювати перехоплення та розшифрування переговорiв НЛО. Можна визначити тип НЛО, расу прибульцiв i тип виконуваного завдання.
 STR_HANGAR_UFOPEDIA
-Each hangar can accommodate one craft.  There are facilities for maintenance, refueling and repair of XCom craft.  Each craft stationed at a base must have a free hangar assigned to it which cannot be used by other craft, even if the assigned craft is out on a mission.
+Кожен ангар вмiщає один корабель. Тут є обладнання для обслуговування, дозаправки та ремонту кораблiв X-COM. Кожному кораблю, приписаному до бази, має бути призначений свiй ангар, який не може бути використаний для розмiщення iнших кораблiв, навiть якщо призначений корабель на вильотi.
 STR_PISTOL_UFOPEDIA
-The standard issue XCom pistol is a high powered semi-automatic with a 12 round capacity.
+Штатний напiвавтоматичний дванадцятизарядний пiстолет X-COM.
 STR_RIFLE_UFOPEDIA
 This highly accurate sniper rifle has laser guided sights and takes 6.7mm ammunition in 20 round clips.
 STR_HEAVY_CANNON_UFOPEDIA
