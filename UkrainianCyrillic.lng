@@ -1222,37 +1222,37 @@ STR_HANGAR_UFOPEDIA
 STR_PISTOL_UFOPEDIA
 Штатний напівавтоматичний дванадцятизарядний пістолет X-COM.
 STR_RIFLE_UFOPEDIA
-This highly accurate sniper rifle has laser guided sights and takes 6.7mm ammunition in 20 round clips.
+Високоточна снайперська гвинтівка калібру 6.7мм, оснащена лазерним прицілом. Магазин вміщує 20 паторнів.
 STR_HEAVY_CANNON_UFOPEDIA
-The heavy cannon is a devastating, but cumbersome, weapon.  Its versatility comes from the fact that it can take three types of ammunition - armor piercing, incendiary and high explosive.
+Важка гармата - потужна, але громіздка зброя. Вона відзначається можливістю використовувати трьох видів боєприпасів - бронебійних, запальних та розривних.
 STR_AUTO_CANNON_UFOPEDIA
-The auto-cannon combines the versatility and power of a heavy cannon with a faster fire rate.
+Авто-гармата поєднує експлуатаційну гнучкість та потужність важкої гармати з можливістю автоматичної стрільби.
 STR_ROCKET_LAUNCHER_UFOPEDIA
-The rocket launcher is a laser guided system which can fire three different sizes of missile.
+Пускова ракетна установка з лазерною системою наведення. Може стріляти трьома видами ракет.
 STR_LASER_PISTOL_UFOPEDIA
-The laser pistol is an effective implementation of new technology.  It has the convenience of a pistol with faster and more accurate firing.
+Лазерний пістолет - ефективна реалізація нової технології. Поєднує зручність пістолета з більшою точністю та скорострільністю.
 STR_LASER_RIFLE_UFOPEDIA
-The laser rifle is a more powerful and accurate version of the earlier pistol design.
+Лазерна гвинтівка - більш потужна та точна зброя, що базується на розробках лазерного пістолета.
 STR_HEAVY_LASER_UFOPEDIA
-The heavy laser is cumbersome, but extremely effective.
+Важкий лазер - громіздка, але напродчуд ефективна зброя.
 STR_GRENADE_UFOPEDIA
-This standard issue grenade has an accurate and sophisticated timer for precision control.
+Стандартна осколочна граната з точним таймером для запалу.
 STR_SMOKE_GRENADE_UFOPEDIA
-Smoke grenades are useful for providing cover in exposed combat situations.  Use with care because they can benefit the enemy as well
+Димові гранати використовуються для забезпечення прикриття в складних бойових ситуаціях. Використовуйте з обережністю, оскільки ворог теж може використати низьку видимість в диму.
 STR_PROXIMITY_GRENADE_UFOPEDIA
-A proximity grenade can be thrown like an ordinary grenade but is triggered by nearby movement after it lands.  Great skill and care is required to use these devices properly.
+Сенсорна граната використовується так само, як і звичайна, але після приземлення її запалом керує сенсор, що реагує на рух. Правильне використання вимагає хорошого навику та особливої обережності.
 STR_HIGH_EXPLOSIVE_UFOPEDIA
-This explosive should only be used for demolition purposes.  Keep personnel clear of demolition sites.
+Заряд вибухівки, який використовується для знищення об'єктів. Евакуююйте персонал від місця вибуху.
 STR_MOTION_SCANNER_UFOPEDIA
-This sophisticated device uses a variety of detectors and advanced computer algorithms to identify moving enemy units. However, it requires some practice to use effectively. Click on the motion scanner icon on the tactical display. Select 'Use Scanner' from the menu.  The Scanner display shows an arrow in the center which is the direction the soldier is facing (North is at the top). The flashing blobs show units which have moved recently. Large units, or fast moving units, will produce larger blobs. Static units will not be detected.
+Цей складний пристрій використовує потужні алгоритми обробки даних, які надходять з різних сенсорів, для виявлення рухомих об'єктів. Для використання сканера натисніть "Використати Сканер" в меню дій, під час тактичної місії. Стрілка на екрані пристрою показує напрям погляду бійця, який використовує сканер (Північ знаходиться вгорі). Миготливі плями - це об'єкти, які нещодавно рухались. Великі плями відповідають великим об'єктам, чи таким, які швидко рухаються. Нерухомі об'єкти сканером не фіксуються.
 STR_MEDI_KIT_UFOPEDIA
-The medi-kit combines a healing facility with pain killers and stimulants. In order to use the medi-kit you must face towards the soldier requiring treatment. If the soldier is stunned you must stand over the body. Click on the medi-kit icon and select 'use medi-kit' from the menu.{NEWLINE}HEALING> Red body parts show fatal wounds. Click on a body part that is wounded. Click on the 'Heal' button. One fatal wound will be cured and some health restored.{NEWLINE}STIMULANT> This will restore energy and revive unconscious (stunned) soldiers. In order to revive an unconscious soldier you must stand directly over the body.{NEWLINE}PAIN KILLER> This will restore the morale of wounded soldiers up to an amount equivalent to the soldier's lost health.
+Мед-комплект містить засоби для зупинки кровотеч, а також знеболюючі та стимулюючі препарати.{NEWLINE} Для застосування мед-комплекту потрібно стати навпроти солдата який потребує лікування. Якщо солдат лежить, потрібно встати над ним. При використанні виберіть:{NEWLINE}ОБРОБКА РАН> Частини тіла, які мають смертельні рани, позначені червоним. Виберіть уражену частину та натисніть кнопку, щоб зупинити кровотечу.{NEWLINE}СТИМУЛЯТОР> Ін'єкція стимуятора відновлює енергію бійця, може використовуватись для повернення потерпілих до свідомості (для цього потрібно стояти над тілом).{NEWLINE}ЗНЕБОЛЮЮЧЕ> Введення комплексу знеболюючих препаратів допомагає покращити моральний стан поранених.
 STR_PSI_AMP_UFOPEDIA
-The Psi-amp can only be used by soldiers with psionic skill. During combat, click on the Psi-amp, select the type of attack, and select a target unit with the cursor. There are two types of psionic attack:{NEWLINE}PANIC UNIT> If the attack is successful it will reduce the target's morale and may cause it to panic.{NEWLINE}MIND CONTROL> If this is successful then you will gain immediate control of the enemy unit as if it was one of your own (except that you cannot access the object screen). It is more difficult to be successful with this type of attack.
+Псі-підсилювач можуть використовувати лише солдати з псіонічними навиками. Для використання виберіть тип атаки, а далі - ціль атаки. Можливі два типи атаки:{NEWLINE}ПАНІКА> При успішній атаці противник буде деморалізовний і може впасти в стан паніки.{NEWLINE}КОНТРОЛЬ РОЗУМУ> При успішній атаці ви отримуєте безпосередній контроль над діями ворога, так ніби він є одним із ваших солдат. Це найскладніший тип псі-атаки.
 STR_STUN_ROD_UFOPEDIA
-This device can only be used in close combat, but will stun a living organism without killing it by using electric shocks.
+Цей пристрій призначений для паралізації противника електричним розрядом, при безпосередньому контакті. При цьому противник залишається живим.
 STR_THE_SUBJECT_HAS_DIED
-The subject has died due to the trauma of interrogation.
+Суб'єкт помер під час допиту.
 STR_MIND_PROBE_UFOPEDIA
 The mind probe is an alien communication device which is used to take information directly from brain waves.  XCom units can use this device in combat to display an alien's characteristics.  Click on the mind probe and the 'use' option.  Then click on an alien with the cursor.
 STR_PLASMA_PISTOL_UFOPEDIA
