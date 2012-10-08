@@ -1254,23 +1254,23 @@ STR_STUN_ROD_UFOPEDIA
 STR_THE_SUBJECT_HAS_DIED
 Суб'єкт помер пiд час допиту.
 STR_MIND_PROBE_UFOPEDIA
-The mind probe is an alien communication device which is used to take information directly from brain waves.  XCom units can use this device in combat to display an alien's characteristics.  Click on the mind probe and the 'use' option.  Then click on an alien with the cursor.
+Ментальний зонд - це засiб зв'язку прибульцiв, що дозволяє отримувати iнформацiю прямо з хвиль, якi випромiнює мозок. Бiйцi X-COM можуть використовувати цей пристрiй для визначення характеристик ворожих бiйцiв. Для використання виберiть "Використати" в меню дiй та клiкнiть по солдату противника.
 STR_PLASMA_PISTOL_UFOPEDIA
-Plasma pistols are a lethal alien weapon based on accelerating particles from within a minute anti-gravity field
+Плазмовий пiстолет - це смертоносна зброя прибульцiв, яка базується на принципi прискорення частинок антигравiтацiйним полем.
 STR_PLASMA_RIFLE_UFOPEDIA
-This is a devastatingly powerful weapon based on accelerating particles from within a minute anti-gravity field
+Руйнiвна плазмова зброя прибульцiв, яка базується на принципi прискорення частинок антигравiтацiйним полем.
 STR_SIZE
-Size
+Розмiр
 STR_THE_CORPSE_MAY_BE_RESEARCHED
-The corpse may be researched for a full autopsy report.
+Труп може бути дослiдженим для отримання вiдомостей про внутрiшню будову.
 STR_NOT_ENOUGH_AMMUNITION_TO_ARM
-Not enough ammunition to arm
+Не вистачає беєприпасiв
 STR_BLASTER_LAUNCHER_UFOPEDIA
-This is an alien guided missile launcher which fires powerful 'blaster bombs'. When you click to fire the weapon it will generate 'way points' for the blaster bomb to follow.  When you have positioned enough way points click on the special launch icon.
+Ця пускова установка прибульцiв стрiляє потужними керованими "бластерними ракетами". Траєкторiя польоту ракети задається безпосередньо перед пострiлом. Пiсля задання траєкторiï натиснiть спецiальну кнопку пуску ракети.
 STR_SMALL_LAUNCHER_UFOPEDIA
-A small launcher which fires stun bombs.  Very useful for capturing live aliens.
+Невелика пускова установка, яка стрiляє паралiзуючими бомбами. Надзвичайно корисна для захоплення живих iнопланетян.
 STR_ALIEN_GRENADE_UFOPEDIA
-This device works in the same way as a terrestrial grenade - except that it is more powerful.
+Граната прибульiв працює таким самим чином, як i земна граната, однак має бiльшу потужнiсть.
 STR_SMALL_SCOUT
 Малий Розвiдник
 STR_MEDIUM_SCOUT
@@ -1302,9 +1302,9 @@ STR_RATING_EXCELLENT
 STR_SCORE
 РАХУНОК
 STR_XCOM_PROJECT_MONTHLY_REPORT
-XCOM PROJECT MONTHLY REPORT
+ЗВIТ ПРОЕКТУ X-COM ЗА МIСЯЦЬ
 STR_MONTH
-Month>
+Мiсяць>
 STR_COUNCIL_IS_GENERALLY_SATISFIED
 The council of funding nations is generally satisfied with your progress so far.
 STR_COUNCIL_IS_VERY_PLEASED
