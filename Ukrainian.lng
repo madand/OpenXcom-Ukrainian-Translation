@@ -1270,7 +1270,7 @@ STR_BLASTER_LAUNCHER_UFOPEDIA
 STR_SMALL_LAUNCHER_UFOPEDIA
 Невелика пускова установка, яка стрiляє паралiзуючими бомбами. Надзвичайно корисна для захоплення живих iнопланетян.
 STR_ALIEN_GRENADE_UFOPEDIA
-Граната прибульiв працює таким самим чином, як i земна граната, однак має бiльшу потужнiсть.
+Граната прибульцiв працює таким самим чином, як i земна граната, однак має бiльшу потужнiсть.
 STR_SMALL_SCOUT
 Малий Розвiдник
 STR_MEDIUM_SCOUT
@@ -1306,157 +1306,157 @@ STR_XCOM_PROJECT_MONTHLY_REPORT
 STR_MONTH
 Мiсяць>
 STR_COUNCIL_IS_GENERALLY_SATISFIED
-The council of funding nations is generally satisfied with your progress so far.
+Рада фiнансуючих держав в загальному задоволена вашими дiями.
 STR_COUNCIL_IS_VERY_PLEASED
-The council of funding nations is very pleased with your excellent progress.  Keep up the good work.
+Рада фiнансуючих держав дуже задоволена вашими дiями. Продовжуйте в тому ж дусi.
 STR_COUNCIL_IS_DISSATISFIED
-The council of funding nations is dissatisfied with your performance.  You must improve your effectiveness in dealing with the alien menace or risk termination of the project.
+Рада фiнансуючих держав незадоволена вашими дiями. Ви мусите збiльшити ефективнiсть протидiï iнопланетнiй загрозi, або проект буде згорнутий.
 STR_YOU_HAVE_NOT_SUCCEEDED
-You have not succeeded in dealing with the alien invasion and the council of funding nations has regrettably decided to terminate the project.  Each nation shall deal with the problem as they see fit.  We can only hope that we can come to some accommodation with these apparently hostile forces, and that the general population will come to terms with the alien visitors.
+Ви не досягли успiху в боротьбi з вторгненням прибульцiв i рада фiнансуючих держав з прикрiстю прийняла рiшення про закриття проекту. Вiдтепер кожна держава буде вирiшувати цю проблему по-своєму. Ми можемо тiльки надiятись, що прийдемо до якоïсь угоди з явно ворожими силами, i що суспiльство прийме умови, запропонованi прибульцями.
 STR_COUNTRY_IS_PARTICULARLY_PLEASED
- is particularly pleased with your ability to deal with the localized threat and has agreed to increase its funding.
+ особливо задоволена вашими успiхами в боротьбi з загрозою на ïï територiï та погодилась збiльшити фiнансування.
 STR_COUNTRIES_ARE_PARTICULARLY_HAPPY
- are particularly happy with your progress in dealing with local alien incursion and have agreed to increase their funding.
+ особливо задоволенi вашими успiхами в боротьбi з вторгненням на ïх територiï та та погодились збiльшити фiнансування.
 STR_AND
- and
+ i
 STR_COUNTRY_IS_UNHAPPY_WITH_YOUR_ABILITY
- is unhappy with your ability to deal with alien activity in its territory and has decided to reduce its financial commitment.
+ незадоволена заходами, вжитими вами для протидiï активностi прибульцiв на ïï територiï, i вирiшила урiзати фiнансування.
 STR_COUNTRIES_ARE_UNHAPPY_WITH_YOUR_ABILITY
- are unhappy with your ability to deal with alien activity in their territory and have decided to reduce their funding.
+ незадоволенi заходами, вжитими вами для протидiï активностi прибульцiв на ïх територiï, i вирiшили урiзати фiнансування.
 STR_KNOTS
-knots
+вузли
 STR_COUNTRY_HAS_SIGNED_A_SECRET_PACT
- has signed a secret pact with unknown alien forces and has withdrawn from the project.
+ пiдписала секретний пакт з невiдомими iнопланетними силами та вийшла з проекту.
 STR_COUNTRIES_HAVE_SIGNED_A_SECRET_PACT
- have signed a secret pact with unknown alien forces and have withdrawn from the project.
+ пiдписали секретний пакт з невiдомими iнопланетними силами та вийшли з проекту.
 STR_MONTHLY_RATING
-Monthly Rating>
+Поточний рейтинг>
 STR_FUNDING_CHANGE
-Funding change>
+Змiна фондiв>
 STR_COUNCIL_REDUCE_DEBTS
-The funding council is not happy with your financial position.  You must reduce your debts below $2million or the project will be terminated.
+Рада з фiнансування не задоволена вашим фiнансовим станом. Ви мусите скоротити борги до 2 мiльйонiв доларiв, або проект буде закритий.
 STR_HYPER_WAVE_TRANSMISSIONS_ARE_DECODED
-HYPER-WAVE TRANSMISSIONS ARE DECODED
+ГIПЕРХВИЛЬОВА ПЕРЕДАЧА ДЕКОДОВАНА
 STR_CRAFT_TYPE
-CRAFT TYPE
+ТИП КОРАБЛЯ
 STR_RACE
-RACE
+РАСА
 STR_MISSION
-MISSION
+ЗАВДАННЯ
 STR_ZONE
-ZONE
+ЗОНА
 STR_ALLOCATE_RESEARCH
-Allocate Research
+Почати Дослiдження
 STR_ALLOCATE_MANUFACTURE
-Allocate Manufacture
+Почати Виробництво
 STR_NEW_YORK
-New York
+Нью-Йорк
 STR_WASHINGTON
-Washington
+Вашингтон
 STR_LOS_ANGELES
-Los Angeles
+Лос-Анджелес
 STR_MONTREAL
-Montreal
+Монреаль
 STR_HAVANA
-Havana
+Гавана
 STR_MEXICO_CITY
-Mexico City
+Мехiко
 STR_CHICAGO
-Chicago
+Чикаго
 STR_VANCOUVER
-Vancouver
+Ванкувер
 STR_DALLAS
-Dallas
+Даллас
 STR_BRASILIA
-Brasilia
+Бразiлiа
 STR_BOGOTA
-Bogota
+Богота
 STR_BUENOS_AIRES
-Buenos Aires
+Буенос-Айрес
 STR_SANTIAGO
-Santiago
+Сантьяго
 STR_RIO_DE_JANEIRO
-Rio De Janeiro
+Рiо-де-Жанейро
 STR_LIMA
-Lima
+Лiма
 STR_CARACAS
-Caracas
+Каракас
 STR_LONDON
-London
+Лондон
 STR_PARIS
-Paris
+Париж
 STR_BERLIN
-Berlin
+Берлiн
 STR_MOSCOW
-Moscow
+Москва
 STR_ROME
-Rome
+Рим
 STR_MADRID
-Madrid
+Мадрид
 STR_BUDAPEST
-Budapest
+Будапешт
 STR_LAGOS
-Lagos
+Лагос
 STR_CAIRO
-Cairo
+Каïр
 STR_CASABLANCA
-Casablanca
+Касабланка
 STR_PRETORIA
-Pretoria
+Преторiя
 STR_NAIROBI
-Nairobi
+Найробi
 STR_CAPE_TOWN
-Cape Town
+Кейптаун
 STR_KINSHASA
-Kinshasa
+Кiншаса
 STR_ANKARA
-Ankara
+Анкара
 STR_DELHI
-Delhi
+Делi
 STR_KARACHI
-Karachi
+Карачi
 STR_BAGHDAD
-Baghdad
+Багдад
 STR_TEHRAN
-Tehran
+Тегеран
 STR_BOMBAY
-Bombay
+Бомбей
 STR_CALCUTTA
-Calcutta
+Калькутта
 STR_TOKYO
-Tokyo
+Токiо
 STR_BEIJING
-Beijing
+Пекiн
 STR_BANGKOK
-Bangkok
+Бангкок
 STR_MANILA
-Manila
+Манiла
 STR_SEOUL
-Seoul
+Сеул
 STR_SINGAPORE
-Singapore
+Сiнгапур
 STR_JAKARTA
-Jakarta
+Джакарта
 STR_SHANGHAI
-Shanghai
+Шанхай
 STR_HONG_KONG
-Hong Kong
+Гонконг
 STR_NOVOSIBIRSK
-Novosibirsk
+Новосибiрськ
 STR_CANBERRA
-Canberra
+Канберра
 STR_WELLINGTON
-Wellington
+Веллiнгтон
 STR_MELBOURNE
-Melbourne
+Мельбурн
 STR_PERTH
-Perth
+Перт
 STR_NEW_GAME
-New Game
+Нова Гра
 STR_LOAD_SAVED_GAME
-Load Game
+Завантажити Гру
 STR_SELECT_DIFFICULTY_LEVEL
-Select Difficulty Level
+Виберiть рiвень складностi
 STR_1_BEGINNER
 1> Початкiвець
 STR_2_EXPERIENCED
@@ -1472,67 +1472,67 @@ STR_TIME
 STR_DATE
 Дата
 STR_SELECT_GAME_TO_LOAD
-Select game to load
+Виберiть гру для завантаження
 STR_SELECT_SAVE_POSITION
-Select save position
+Виберiть слот для збереження
 STR_PSIONIC_TRAINING
-PSIONIC TRAINING
+ПСIОНIЧНЕ ТРЕНУВАННЯ
 STR_REMAINING_PSI_LAB_CAPACITY
-Remaining Psi-lab capacity>
+Мiсця в псi-лабораторiï>
 STR_PSIONIC__STRENGTH
-Psionic{NEWLINE}Strength
+Псiонiчна{NEWLINE}Сила
 STR_PSIONIC_SKILL_IMPROVEMENT
-Psionic Skill{NEWLINE}/Improvement
+Псi-навик{NEWLINE}/Полiпшення
 STR_PSI_AMP
-Psi-Amp
+Псi-Пiдсилювач
 STR_IN_TRAINING
-In{NEWLINE}Training?
+На{NEWLINE}Тренув.?
 STR_TARGETTED_BY
-TARGETTED BY:
+ЦIЛЬ ДЛЯ:
 STR_WEAPONS_CREW_HWPS
-WEAPONS/{NEWLINE}CREW/HWPs
+ЗБРОЯ/{NEWLINE}ЕКIПАЖ/ВБП
 STR_ABANDON_GAME
-ABANDON GAME
+ВIДМОВИТИСЬ ВIД ГРИ
 STR_QUIT
-Quit
+Вийти
 STR_IS_LOW_ON_FUEL_RETURNING_TO_BASE
-is low on fuel,{NEWLINE}returning to base
+закiнчується пальне,{NEWLINE}повертаюсь на базу
 STR_SOLDIER_LIST
-Soldier List
+Список Солдатiв
 STR_RANK_
-RANK>
+ЗВАННЯ>
 STR_MISSIONS
-MISSIONS>
+ЗАВДАНЬ>
 STR_KILLS
-KILLS>
+ВБИВСТВ>
 STR_WOUND_RECOVERY
-WOUND RECOVERY>
+ЛIКУВАННЯ>
 STR_TIME_UNITS
-TIME UNITS
+ОДИНИЦI ЧАСУ
 STR_STAMINA
-STAMINA
+ВИТРИВАЛIСТЬ
 STR_HEALTH
-HEALTH
+ЗДОРОВ'Я
 STR_BRAVERY
-BRAVERY
+ХОРОБРIСТЬ
 STR_REACTIONS
-REACTIONS
+РЕАКЦIЯ
 STR_FIRING_ACCURACY
-FIRING ACCURACY
+ТОЧНIСТЬ СТРIЛЬБИ
 STR_THROWING_ACCURACY
-THROWING ACCURACY
+ТОЧНIСТЬ КИДАННЯ
 STR_STRENGTH
-STRENGTH
+СИЛА
 STR_PSIONIC_STRENGTH
-PSIONIC STRENGTH
+ПСIОНIЧНА СИЛА
 STR_PSIONIC_SKILL
-PSIONIC SKILL
+ПСIОНIЧНИЙ НАВИК
 STR_NEW_RANK
-NEW RANK
+НОВЕ ЗВАННЯ
 STR_PROMOTIONS
-Promotions
+Присвоєнi звання:
 STR_SOLDIERS_UC
-SOLDIERS
+СОЛДАТИ
 STR_TANK_CANNON_UFOPEDIA
 Automated heavy weapons platforms are designed to complement an XCom squad.  The combination of high fire power and strong armor makes these units valuable for open terrain fire fights.  Make sure that there are sufficient cannon shells in your stores to re-arm tanks.  They are armed automatically when you assign them to a squad.
 STR_TANK_ROCKET_LAUNCHER_UFOPEDIA
