@@ -32,7 +32,7 @@ STR_SNAKEMAN_UFOPEDIA
 STR_SNAKEMAN_AUTOPSY
 Розтин Людинозмiï
 STR_SNAKEMAN_AUTOPSY_UFOPEDIA
-Шкiра надзвичайно жорстка та термостiйка. Серцево-судинна система є частиною м'язовоï системи, яка використовує гiдравлiчний принцип для здiйснення рухiв. Єдиним справжнiм м'язом є "серце". Репродуктивна система здається вкрай ефективною. Розмноження не залежить вiд статi, в будь-який момент всерединi кожноï Людинозмiï є до п'ятдесяти яєць. Залишений без нагляду, цей вид мiг би бути серцозною загрозою життю на Землi.
+Шкiра надзвичайно жорстка та термостiйка. Серцево-судинна система є частиною м'язовоï системи, яка використовує гiдравлiчний принцип для здiйснення рухiв. Єдиним справжнiм м'язом є "серце". Репродуктивна система здається вкрай ефективною. Розмноження не залежить вiд статi, в будь-який момент всерединi кожноï Людинозмiï є до п'ятдесяти яєць. Залишений без нагляду, цей вид мiг би бути серйозною загрозою життю на Землi.
 STR_ETHEREAL_UFOPEDIA
 Ця iстота володiє страхiтливими ментальними силами, якi включають телепатичне спiлкування та здатнiсть до телекiнезу. Дуже слабкий фiзичний розвиток цiєï iстоти компенсується силою розуму. Ми не розумiємо принцип роботи телекiнезу, оскiльки це явище суперечить вiдомим нам законам фiзики. Вони надзвичайно небезпечнi в будь-якiй бойовiй ситуацiï, де вони покладаються на своï менталнi сили. Вони рiдко з'являються на Землi, оскiльки використовують iншi раси для досягнення своïх цiлей.
 STR_ETHEREAL_AUTOPSY
@@ -56,7 +56,7 @@ STR_SILACOID_UFOPEDIA
 STR_SILACOID_AUTOPSY
 Розтин Силакоïда
 STR_SILACOID_AUTOPSY_UFOPEDIA
-Ядро цiєï iстоти надзвичайно гаряче i, схоже, є основою його травноï системи. Його унiкальна м'язова система має величезну силу i швидкiсть. Каменеподiбна шкiра цiєï iстоти не вразлива для вогню чи запальних снарядiв.
+Ядро цiєï iстоти надзвичайно гаряче i, схоже, є основою його травноï системи. Його унiкальна м'язова система має величезну силу i швидкiсть. Каменеподiбна шкiра цiєï iстоти не вразлива для вогню чи запалювальних снарядiв.
 STR_CHRYSSALID_UFOPEDIA
 Крабоподiбнi клешнi цiєï iстоти є могутньою зброєю в ближньому бою. Високий метаболiзм i сила цiєï iстоти надають йому високу  швидкiсть та спритнiсть. Замiсьть того щоб вбивати своïх жертв, воно заплiднює ïï яйцем та вприскує отруту, яка перетворює жертву в ходячого зомбi. Молодий Крисалiд вилупиться з жертви невдовзi пiсля заплiднення. Крисалiди асоцiюються з расою Людинозмiй.
 STR_CHRYSSALID_AUTOPSY
@@ -816,7 +816,7 @@ STR_S
 STR_ARMOR_PIERCING
 БРОНЕБIЙНИЙ
 STR_INCENDIARY
-ЗАПАЛЮВАЛЬНI
+ЗАПАЛЮВАЛЬНИЙ
 STR_HIGH_EXPLOSIVE_UC
 ВИБУХОВИЙ
 STR_LASER_BEAM
@@ -1244,7 +1244,7 @@ STR_PISTOL_UFOPEDIA
 STR_RIFLE_UFOPEDIA
 Високоточна снайперська гвинтiвка калiбру 6.7мм, оснащена лазерним прицiлом. Магазин вмiщує 20 паторнiв.
 STR_HEAVY_CANNON_UFOPEDIA
-Важка гармата - потужна, але громiздка зброя. Вона вiдзначається можливiстю використовувати трьох видiв боєприпасiв - бронебiйних, запальних та розривних.
+Важка гармата - потужна, але громiздка зброя. Вона вiдзначається можливiстю використання трьох видiв боєприпасiв - бронебiйних, запалювальних та розривних.
 STR_AUTO_CANNON_UFOPEDIA
 Авто-гармата поєднує експлуатацiйну гнучкiсть та потужнiсть важкоï гармати з можливiстю автоматичноï стрiльби.
 STR_ROCKET_LAUNCHER_UFOPEDIA
@@ -1570,23 +1570,23 @@ STR_PLASMA_RIFLE_CLIP_UFOPEDIA
 STR_PLASMA_PISTOL_CLIP_UFOPEDIA
 Джерело енергiï для невиликого плазмового пiстолета. Мiстить елерiум - джерело енергiï всiх iнопланетних технологiй.
 STR_STUN_BOMB_UFOPEDIA
-The Stun bomb is used for capturing live human specimens, but it can also be used against most alien races.  It is fired from a small launcher.
+Паралiзуюча бомба використовується для захоплення живими людей, але може використовуватись i для захоплення прибульцiв. Це боєзапас для Малоï Установки.
 STR_ALIEN_RESEARCH_UFOPEDIA
-The alien research mission is used for collecting basic data on earth and its inhabitants.  Small vehicles are predominantly used, with occasional landings in deserted areas.  This type of alien activity poses the least threat to XCom, with little concern from governments or the public.
+Метою дослiдницьких мiсiй прибульцiв є збiр даних про Землю i ïï жителiв. Використовуються переважно малi кораблi, якi iнодi сiдають в пустельних землях. Цей тип активностi прибульцiв становить найменшу небезпеку, з малим впливом на занепокоєння уряду та суспiльства.
 STR_ALIEN_HARVEST_UFOPEDIA
-The aliens have many uses for earth's fauna.  Animals are abducted secretly, and returned with various organs removed.  Cattle mutilations are predominantly reported along with UFO sightings.  This type of alien activity causes great concern by governments and considerable anxiety amongst the population.  This type of activity occurs mainly in farming land.  The theory behind the 'alien harvest' suggests that alien races originally 'seeded' the planet with its flora and fauna, and now they have returned to reap the harvest they have sown.
+Прибульцi широко використовують земну фауну в своïх цiлях. Тварин таємно викрадають та повертають пiсля видалення рiзних органiв. Здебiльшого випадки калiцтва худоби спiвпадають з випадками спостереження НЛО. Цей тип дiяльностi прибульцiв викликає найбiльше занепокоєння в урядiв i тривогу серед населення. Найчастiше така активнiсть проявляється в сiльскогосподарських регiонах. Теорiя "збору врожаю" передбачає, що прибульцi колись "засiяли" планету зразками своєï флори i фауни i тепер повернулись, щоб зiбрати "врожай".
 STR_ALIEN_ABDUCTION_UFOPEDIA
-This is the most insidious form of alien activity.  The abduction by aliens is widely reported, despite the aliens' attempts to erase the experience from their victims' memories.  Abductees report being subject to humiliating physical examinations, including impregnation of alien fetuses and bizarre genetic experiments.  The purpose behind this activity appears to be linked to genetic mutation and manipulation of the aliens own genetic material.  This activity causes great alarm, and occurs in populated areas or cities
+Найбiльш пiдступний вид дiяльностi прибульцiв. Випадки викрадення людей прибульцями широко вiдомi, незважаючи на спроби прибульцiв стирати спогади з пам'ятi жертв. Викраденi розказують про проведенi над ними фiзiологiчнi дослiди, включаючи заплiднення зардоками iнопланетних органiзмiв i рiзнi генетичнi експерименти. Переслiдувана прибульцями цiль, ймовiрно, має вiдношення до мутацiй i манiпулювання ïх власним генетичним матерiлом. Цi iнциденти викликають велике занепокоєння i вiдбуваються в населених мiсцях або мiстах.
 STR_ALIEN_INFILTRATION_UFOPEDIA
-Earth governments can be infiltrated by alien agents which are human in appearance.  This can result in official contact between aliens and governments at the highest level.  The climax of this activity is characterized by intense UFO activity in the vicinity of major cities.  The aliens will attempt to sign a pact with an earth government by offering knowledge of their superior technology.  In return the government will allow the aliens to conduct their activity unhindered.  This alien mission represents the worst threat to XCom.  If a government agrees to a pact then its funding will cease.
+В земнi уряди можуть проникнути агенти прибульцiв, якi ззовнi виглядають як люди. Це може призвести до встановлення звязку мiж прибульцями та урядом на найвищому рiвнi. Ознакою пiдготовки такоï операцiï може бути висока активнiсть НЛО поблизу великих мiст. Прибульцi намагатимуться пiдписати пакт з урядом, пропонуючи передачу своïх технологiй в обмiн на можливiсть безперешкодно дiяти на данiй територiï. Цей тип мiсiй прибульцiв являє найбiльшу загрозу для X-COM. Якщо уряд погодиться - фiнансування з його сторони буде припинене.
 STR_ALIEN_BASE_UFOPEDIA
-Aliens will construct secret underground bases in remote locations.  After some initial reconnaissance flights some intense UFO activity will occur as the base is being built.  These bases are known to contain experimental labs for human abductees, and supplies for further activity in the region.  The presence of alien bases will generate a large amount of reported alien activity without the presence of UFOs.  In order to locate a base an XCom craft must patrol an area for a few hours to stand some chance of detection.
+Прибульцi будуть будувати таємнi пiдземнi бази у вiддалених районах. Пiсля перiоду розвiдувальних польотiв буде вiдзначатись висока активнiсть НЛО в мiсцi будiвництва бази. На базах розмiщуються експерииментальнi лабораторiï для вивчення людей, а також засоби для подальшоï дiяльностi прибульцiв в регiонi. Присутнiсть бази буде супроводжуватись великою кiлькiстю повiдомлень про дiï прибульцiв при вiдносно малiй кiлькостi випадкiв спостереження НЛО. Щоб виявити базу, корабель X-COM має патрулювати область протягом кiлькох годин.
 STR_ALIEN_TERROR_UFOPEDIA
-When the aliens terrorize a city they will deploy some special forces with awesome powers.  Civilians will be directly threatened, and governments will be forced to evacuate whole areas.  The main purpose behind this activity is to generate sufficient public hysteria so that governments will threaten the XCom project.
+Коли прибульцi тероризують мiсто, вони використовують спецiальнi загони великоï сили. Через наявнiсть беспосередньоï небезпеки для цивiльних, уряд змушений евакуювати цiлi райони. Основна цiль цих акцiй - викликати досить велику панiку серед людей, через що уряди можуть чинити суттєвий тиск на проект X-COM.
 STR_ALIEN_RETALIATION_UFOPEDIA
-If XCom interceptors are being particularly successful in shooting down UFOs then the aliens may take some retaliatory action.  This could result in a direct attack against an XCom base.  However, the aliens have to find an XCom base in order to attack it, and provided UFOs are kept away then there should be little danger of an assault.
+У випадку особливо успiшних дiй перехоплювачiв X-COM, прибульцi будуть вживати заходи у вiдповiдь. Результатом може стати напад на базу X-COM. Однак прибульцям потрiбно спершу виявити базу. Тому ризик можна суттєво знизити, якщо не пiдпускати НЛО-розвiдники до бази.
 STR_ALIEN_SUPPLY_UFOPEDIA
-Once an alien base is constructed then it is resupplied on a regular basis by a special supply vessel.  If one of these vessels is detected while landing then it is certain that an alien base is nearby.
+Пiсля того як база прибульцiв побудована, ïï постачання здiйснюється на регулярнiй основi спецiальним вантажним транспортом. Виявивши такий корабель на землi, можна бути певним, що неподалiк є база прибульцiв.
 STR_SMALL_SCOUT_UFOPEDIA
 This tiny craft is primarily used for reconnaissance or research.  It normally precedes larger vessels at the start of an alien mission.
 STR_MEDIUM_SCOUT_UFOPEDIA
