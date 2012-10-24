@@ -579,7 +579,7 @@ STR_INTERCEPTING_UFO
 ПЕРЕХОПЛЕННЯ НЛО-
 STR_RETURNING_TO_BASE
 ПОВЕРНЕННЯ НА БАЗУ
-STR_DESTINATION_UC
+STR_DESTINATION_UC_
 ПУНКТ ПРИЗНАЧЕННЯ: 
 STR_SPEED_
 ШВИДКІСТЬ>
@@ -992,7 +992,7 @@ STR_STINGRAY_LAUNCHER
 STR_AVALANCHE_LAUNCHER
 Пускова установка "Лавина"
 STR_CANNON
-Гармата
+Авіагармата
 STR_FUSION_BALL_LAUNCHER
 Бластерна Гармата
 STR_PLASMA_BEAM
@@ -1080,7 +1080,7 @@ STR_STINGRAY
 STR_AVALANCHE
 ЛАВИНА
 STR_CANNON_UC
-ГАРМАТА
+АВІАГАРМАТА
 STR_FUSION_BALL_UC
 БЛАСТЕРНА ГАРМАТА
 STR_LASER_CANNON_UC
@@ -1588,133 +1588,135 @@ STR_ALIEN_RETALIATION_UFOPEDIA
 STR_ALIEN_SUPPLY_UFOPEDIA
 Після того як база прибульців побудована, її постачання здійснюється на регулярній основі спеціальним вантажним транспортом. Виявивши такий корабель на землі, можна бути певним, що неподалік є база прибульців.
 STR_SMALL_SCOUT_UFOPEDIA
-This tiny craft is primarily used for reconnaissance or research.  It normally precedes larger vessels at the start of an alien mission.
+Цей крихітний корабель використовується для розвідки чи досліджень. Його польоти зазвичай передують більшим кораблям на початку місій прибульців.
 STR_MEDIUM_SCOUT_UFOPEDIA
-A medium sized scout vessel that poses little threat to earth forces.  Normally appears before larger vessels during missions.
+Середній за розміром розвідувальний корабель, який не становить великої небезпеки. Зазвичай з'являється перед більшими кораблями під час місії прибульців.
 STR_LARGE_SCOUT_UFOPEDIA
-The largest alien scout craft is a general purpose vessel that is used in all types of alien mission.
+Найбільший розвідувальний корабель прибульців, який є кораблем загального призначення і використовується у всіх типах місій.
 STR_HARVESTER_UFOPEDIA
-The harvester has a trap door in its base and is equipped with lifting gear to haul up cattle or other beasts.  Laser cutters are used to extract the desired material and the carcass is dumped on the ground.  There are also storage containers for body parts.
+Жнець має люк в нижній частині корпуса і оснащений підйомним механізмом для худоби та інших тварин. Необхідний біоматеріл виймається з використанням лазерних скальпелів, після чого туша скидається на землю. Також наявні контейнери для зберігання здобутих органів.
 STR_ABDUCTOR_UFOPEDIA
-This vessel is equipped with an examination room for performing horrific experiments on human subjects.  The victim is normally paralyzed by telepathic powers, but remains conscious while on the operating table.
+Цей корабель обладнано кімнатою для проведення допитів і жахливих експериментів над людьми. Зазвичай жертва телепатично паралізується, але залишається при свідомості на операційному столі.
 STR_TERROR_SHIP_UFOPEDIA
-The terror ship has a containment facility for large alien terror weapons or creatures.  It is used to transport these alien terrorists into populated areas.
+Корабель терору має відсіки для перевезення великих істот або техніки загонів залякування. Він використовується для доставки цих інопланетних терористів в населені райони.
 STR_BATTLESHIP_UFOPEDIA
-The battleship is the largest and most powerful alien craft.  It is normally the primary alien mission craft, equipped with powerful weapons and numerous crew members.
+Лінкор - найбільший і найпотужніший корабель прибульців. Він є основним бойовим кораблем в будь-якій місії, несе на борту потужну зброю та численний екіпаж.
 STR_SUPPLY_SHIP_UFOPEDIA
-The supply vessel is used during the construction of alien bases or for supplying existing bases.  It carries alien food containers and reproduction chambers.
+Корабель постачання використовується при закладанні нових баз і постачанні існуючих. Перевозить контейнери з їжею та репродукційні камери.
 STR_DISMANTLE
-Dismantle
+Демонтувати
 STR_FACILITY_IN_USE
-FACILITY IN USE
+МОДУЛЬ ВИКОРИСТОВУЄТЬСЯ
 STR_CANNOT_DISMANTLE_FACILITY
-CANNOT DISMANTLE FACILITY!{SMALLLINE}All base facilities must be linked to the access lift.
+НЕ МОЖУ ДЕМОНТУВАТИ МОДУЛЬ!{SMALLLINE}Всі модулі мають бути з'єднані з вхідним ліфтом.
 STR_TRANSFER_ITEMS_TO
-Transfer Items to
+Відправити на базу
 STR_NO_ALIEN_CONTAINMENT_FOR_TRANSFER
-NO ALIEN CONTAINMENT FOR TRANSFER!{SMALLLINE}Live aliens need an alien containment facility in order to survive.
+НЕМАЄ ТЮРМИ ДЛЯ ПРИБУЛЬЦІВ ДЛЯ ПЕРЕДАЧІ!{SMALLLINE}Для утримання живих прибульців необхідний спеціальний модуль.
 STR_AMOUNT_AT_DESTINATION
-AMOUNT AT{NEWLINE}DESTINATION
+НА МІСЦІ {NEWLINE}ПРИЗНАЧЕННЯ
 STR_ALIEN_DIES_NO_ALIEN_CONTAINMENT_FACILITY
-Alien dies as there is no alien containment facility
+Прибулець загинув, оскільки немає модуля для його утримання.
 STR_NO_FREE_ACCOMODATION_CREW
-NO FREE ACCOMMODATION!{SMALLLINE}The destination base does not have enough space in the living quarters for the crew assigned to the craft.
+НЕМАЄ ВІЛЬНОГО МІСЦЯ!{SMALLLINE}База призначення не має достатньої кількості місця в житлових модулях для екіпажу, призначеного на корабель.
 STR_ITEMS_ARRIVING
-Items Arriving
+Прибуття
+STR_DESTINATION_UC
+ПУНКТ ПРИЗНАЧЕННЯ
 STR_PISTOL
-Pistol
+Пістолет
 STR_PISTOL_CLIP
-Pistol Clip
+Магазин для пістолета
 STR_RIFLE
-Rifle
+Гвинтівка
 STR_RIFLE_CLIP
-Rifle Clip
+Магазин для гвинтівки
 STR_HEAVY_CANNON
-Heavy Cannon
+Важка Гармата 
 STR_HC_AP_AMMO
-HC-AP Ammo
+ВГ-ББ магазин
 STR_HC_HE_AMMO
-HC-HE Ammo
+ВГ-В магазин
 STR_HC_I_AMMO
-HC-I Ammo
+ВГ-З магазин
 STR_AUTO_CANNON
-Auto-Cannon
+Авто-гармата
 STR_AC_AP_AMMO
-AC-AP Ammo
+АГ-ББ магазин
 STR_AC_HE_AMMO
-AC-HE Ammo
+АГ-В магазин
 STR_AC_I_AMMO
-AC-I Ammo
+АГ-З магазин
 STR_ROCKET_LAUNCHER
-Rocket Launcher
+Ракетна Установка
 STR_SMALL_ROCKET
-Small Rocket
+Легка Ракета
 STR_LARGE_ROCKET
-Large Rocket
+Важка Ракета
 STR_INCENDIARY_ROCKET
-Incendiary Rocket
+Запалювальна Ракета
 STR_GRENADE
-Grenade
+Граната
 STR_SMOKE_GRENADE
-Smoke Grenade
+Димова Граната
 STR_PROXIMITY_GRENADE
-Proximity Grenade
+Сенсорна Граната
 STR_HIGH_EXPLOSIVE
-High Explosive
+Вибухівка
 STR_STUN_ROD
-Stun Rod
+Електрошоковий Кийок
 STR_HEAVY_PLASMA
-Heavy Plasma
+Важка Плазма
 STR_HEAVY_PLASMA_CLIP
-Heavy Plasma Clip
+Магазин для важ. плазми
 STR_PLASMA_RIFLE
-Plasma Rifle
+Плазмова Гвинтівка
 STR_PLASMA_RIFLE_CLIP
-Plasma Rifle Clip
+Магазин для плаз. гвинтівки
 STR_PLASMA_PISTOL
-Plasma Pistol
+Плазмовий Пістолет
 STR_PLASMA_PISTOL_CLIP
-Plasma Pistol Clip
+Магазин для плаз. пістолета
 STR_BLASTER_LAUNCHER
-Blaster Launcher
+Бластерна Установка
 STR_BLASTER_BOMB
-Blaster Bomb
+Бластерна Бомба
 STR_SMALL_LAUNCHER
-Small Launcher
+Маленька Установка
 STR_STUN_BOMB
-Stun Bomb
+Паралізуюча Бомба
 STR_ALIEN_GRENADE
-Alien Grenade
+Граната Прибульців
 STR_ELERIUM_115
-Elerium-115
+Елеріум-115
 STR_MIND_PROBE
-Mind Probe
+Ментальний Зонд
 STR_SECTOID_CORPSE
-Sectoid Corpse
+Труп Сектоїда
 STR_SNAKEMAN_CORPSE
-Snakeman Corpse
+Труп Людинозмії
 STR_ETHEREAL_CORPSE
-Ethereal Corpse
+Труп Небесного
 STR_MUTON_CORPSE
-Muton Corpse
+Труп Мутона
 STR_FLOATER_CORPSE
-Floater Corpse
+Труп Летуна
 STR_CELATID_CORPSE
-Celatid Corpse
+Труп Селатида
 STR_SILACOID_CORPSE
-Silacoid Corpse
+Труп Силакоїда
 STR_CHRYSSALID_CORPSE
-Chryssalid Corpse
+Труп Крисаліда
 STR_REAPER_CORPSE
-Reaper Corpse
+Труп Рипера
 STR_SECTOPOD_CORPSE
-Sectopod Corpse
+Труп Сектопода
 STR_CYBERDISC_CORPSE
-Cyberdisc Corpse
+Труп Кібердиска
 STR_TO_ARM_HWP
- to arm HWP
+ для озброєння ВБП
 STR_NOT_ENOUGH_EQUIPMENT_TO_FULLY_RE_EQUIP_SQUAD
-Not enough equipment to fully re-equip squad
+Недостатньо спорядження для екіпірування загону
 STR_MARS_CYDONIA_LANDING
 Mars: Cydonia Landing
 STR_MARS_CYDONIA_LANDING_BRIEFING
