@@ -136,7 +136,7 @@ STR_EXCELLENT
 STR_BUILD_NEW_BASE_UC
 БУДУВАТИ НОВУ БАЗУ
 STR_BASE_INFORMATION
-ІНФОРМАЦІЯ ПО БАЗІ
+ІНФОРМАЦІЯ ПРО БАЗИ
 STR_EQUIP_CRAFT
 СПОРЯДИТИ КОРАБЕЛЬ
 STR_BUILD_FACILITIES
@@ -364,7 +364,7 @@ STR_NOT_ENOUGH_SPECIAL_MATERIALS_TO_PRODUCE
 STR_NOT_ENOUGH_MONEY_TO_PRODUCE
 Бракує грошей для виробництва{NEWLINE}
 STR_PRODUCTION_COMPLETE
-Завершено виробницто:{NEWLINE}
+Завершено виробництво:{NEWLINE}
 STR_PRODUCTION_OF
 Виробництво{NEWLINE}
 STR__AT__
@@ -1234,7 +1234,7 @@ STR_GRAV_SHIELD_UFOPEDIA
 STR_MIND_SHIELD_UFOPEDIA
 Для виявлення присутності людей прибульці покладаються на характерні хвилі, які випромінює людський мозок. Ментальний щит екранує ці мозкові хвилі, сильно зменшуючи ймовірність виявлення противником.
 STR_PSIONIC_LABORATORY_UFOPEDIA
-Псі-лабораторія дозволяє провести оцінку псіонічного потенціалу всіх бійців на базі, а також необхідне для розвитку псі-навиків навчання. Кожна лабораторія може тренувати до 10 чоловік одночасно, розподіл на тренування відбувається в кінці місяця. Для бойового використання псіонічних навиків необхідно спорядити бійців псі-підсилювачами.
+Псі-Лабораторія дозволяє провести оцінку псіонічного потенціалу всіх бійців на базі, а також необхідне для розвитку псі-навиків навчання. Кожна лабораторія може тренувати до 10 чоловік одночасно, розподіл на тренування відбувається в кінці місяця. Для бойового використання псіонічних навиків необхідно спорядити бійців псі-підсилювачами.
 STR_HYPER_WAVE_DECODER_UFOPEDIA
 Засоби зв'язку прибульців базуються на використанні гіперпросторових хвиль, які поширюються майже миттєво. Декодер дозволяє здійснювати перехоплення та розшифрування переговорів НЛО. Можна визначити тип НЛО, расу прибульців і тип виконуваного завдання.
 STR_HANGAR_UFOPEDIA
@@ -1498,7 +1498,7 @@ STR_SELECT_SAVE_POSITION
 STR_PSIONIC_TRAINING
 ПСІОНІЧНЕ ТРЕНУВАННЯ
 STR_REMAINING_PSI_LAB_CAPACITY
-Місця в псі-лабораторії>
+Місця в Псі-Лабораторії>
 STR_PSIONIC__STRENGTH
 Псіонічна{NEWLINE}Сила
 STR_PSIONIC_SKILL_IMPROVEMENT
@@ -1718,299 +1718,299 @@ STR_TO_ARM_HWP
 STR_NOT_ENOUGH_EQUIPMENT_TO_FULLY_RE_EQUIP_SQUAD
 Недостатньо спорядження для екіпірування загону
 STR_MARS_CYDONIA_LANDING
-Mars: Cydonia Landing
+Марс: Десантування в Кідонії
 STR_MARS_CYDONIA_LANDING_BRIEFING
-Your Avenger craft has landed in the region of Cydonia on the surface of Mars.  Our information indicates that one of the pyramid constructions contains a green access lift to an underground complex.  Once you have assembled all your soldiers in the lift area click on the 'abort mission' icon to continue to the next stage.
+Ваш корабель "Месник" приземлився на поверхню Маррсу в районі Кідонії. За нашою інформацією, в одній із пірамідальних споруд знаходиться ліфт, що веде в підземний комплекс. Зберіть загін в ліфті (зелена область) і натисніть кнопку "Перервати завдання" для переходу на наступний рівень.
 STR_MARS_THE_FINAL_ASSAULT
-Mars: The Final Assault
+Марс: Фінальна Битва
 STR_MARS_THE_FINAL_ASSAULT_BRIEFING
-The pyramid lift takes your battle weary soldiers deep below the planet's surface.  They arrive in the heart of a large complex of tunnels and chambers.  The alien brain is hidden somewhere in the labyrinth.  It must be destroyed if the earth is to be saved from alien enslavement.{NEWLINE}{NEWLINE}Good Luck!
+Ліфт піраміди доправив ваших змучених битвою солдатів глибоко під поверхню планети. Вони прибули в серце великого комплексу лабіринтів та камер. Десь там схований інопланетний Мозок. Він мусить бути знищений, щоб врятувати Землю від навали інопланетян.{NEWLINE}{NEWLINE}Удачі!
 STR_IN_ORDER_TO_USE_OR_PRODUCE_THE
-{NEWLINE}in order to use or produce the{NEWLINE}
+{NEWLINE}для використання чи виробництва{NEWLINE}
 STR_THE_ALIENS_HAVE_DESTROYED_THE_UNDEFENDED_BASE
-The aliens have destroyed the undefended base
+Прибульці зруйнували незахищену базу
 STR_XCOM_AGENTS_HAVE_LOCATED_AN_ALIEN_BASE_IN
-XCom agents have located an alien base in
+Агенти X-COM виявили базу прибульців в
 STR_STANDOFF
-STANDOFF
+НА БЕЗПЕЧНІЙ ВІДСТАНІ
 STR_CAUTIOUS_ATTACK
-CAUTIOUS ATTACK
+ОБЕРЕЖНА АТАКА
 STR_STANDARD_ATTACK
-STANDARD ATTACK
+ЗВИЧАЙНА АТАКА
 STR_AGGRESSIVE_ATTACK
-AGGRESSIVE ATTACK
+АГРЕСИВНА АТАКА
 STR_DISENGAGING
-DISENGAGING
+ВІДДАЛЕННЯ
 STR_UFO_HIT
-UFO HIT!
+НЛО ВРАЖЕНИЙ!
 STR_UFO_CRASH_LANDS
-UFO CRASH LANDS!
+НЛО ПІДБИТИЙ!
 STR_MINIMISE_AT_STANDOFF_RANGE_ONLY
-Minimize at Standoff Range Only
+Переслідувати на безпечній дистанції
 STR_UFO_RETURN_FIRE
-UFO RETURN FIRE!
+НЛО СТРІЛЯЄ!
 STR_INTERCEPTOR_DAMAGED
->>> INTERCEPTOR DAMAGED <<<
+>>> ПЕРЕХОПЛЮВАЧ ПОШКОДЖЕНО <<<
 STR_INTERCEPTOR_DESTROYED
->>> INTERCEPTOR DESTROYED <<<
+>>> ПЕРЕХОПЛЮВАЧ ЗНИЩЕНО <<<
 STR_UFO_OUTRUNNING_INTERCEPTOR
-UFO OUTRUNNING INTERCEPTOR!
+НЛО ВІДІРВАВСЯ ВІД ПЕРЕХОПЛЮВАЧА!
 STR_ALIENS_TERRORISE
-ALIENS TERRORIZE
+ПРИБУЛЬЦІ ТЕРОРИЗУЮТЬ
 STR_LONG_RANGE_DETECTION
-Long Range Detection
+Дальнє виявлення
 STR_STORES_UC
-STORES
+ЗАПАСИ
 STR_DIFFICULTY_LEVEL
-Difficulty Level
+Рівень складності
 STR_INTERCEPT
-INTERCEPT
+ПЕРЕХОПЛЕННЯ
 STR_BASES
-BASES
+БАЗИ
 STR_GRAPHS
-GRAPHS
+ГРАФІКИ
 STR_UFOPAEDIA_UC
-UFOPEDIA
+НЛОПЕДІЯ
 STR_OPTIONS_UC
-OPTIONS
+НАЛАШТУВАННЯ
 STR_FUNDING_UC
-FUNDING
+ФІНАНСИ
 STR_5_SECS
-5 Secs
+5 сек
 STR_1_MIN
-1 Min
+1 хв
 STR_5_MINS
-5 Mins
+5 хв
 STR_30_MINS
-30 Mins
+30 хв
 STR_1_HOUR
-1 Hour
+1 год
 STR_1_DAY
-1 Day
+1 день
 STR_XCOM_PERFORMANCE_ROSTER
-XCom Performance Roster
+Виконання завдань X-COM
 STR_ENTER_NAME
-Enter Name
+Введіть ім'я
 STR_PERFORMANCE_RATING
-Performance Rating
+Оцінка виконання
 STR_VICTORY_DATE
-Victory Date
+День Перемоги
 STR_ELECTRO_FLARE
-Electro-flare
+Освітлювач
 STR_ELECTRO_FLARE_UFOPEDIA
-This compact device produces a bright flare light when it is thrown.  This will highlight enemy units in the vicinity of the electro-flare during night time missions.
+Цей компактний пристрій випромінює яскраве світло, будучи кинутим куди-небудь. Він корисний під час виконання завдань в темний час доби.
 STR_MONTHLY_COSTS
-Monthly Costs
+Місячні Витрати
 STR_CRAFT_RENTAL
-Craft Rental
+Аренда кораблів
 STR_SALARIES
-Salaries
+Зарплати
 STR_BASE_MAINTENANCE
-Base maintenance
+Обслуговування бази
 STR_COST_PER_UNIT
-Cost per unit
+Ціна одиниці
 STR_QUANTITY
-Quantity
+Кільк.
 STR_TOTAL
-Total
+Всього
 STR_DAY
- day
+ день
 STR_DAYS
- days
+ дні(в)
 STR_IN_PSIONIC_TRAINING
-In Psionic Training
+Тренуються в Псі-Лабораторії
 STR_BLASTER_BOMB_UFOPEDIA
-This device is a highly explosive missile that has an intelligent guidance system.  It is fired from a blaster launcher.
+Потужна ракета, оснащена програмованою системою управління. Призначена для стрільби з бластерної пускової установки.
 STR_FRONT_ARMOR
-Front Armor
+Передня броня
 STR_LEFT_ARMOR
-Left Armor
+Ліва броня
 STR_RIGHT_ARMOR
-Right Armor
+Права броня
 STR_REAR_ARMOR
-Rear Armor
+Задня броня
 STR_UNDER_ARMOR
-Under Armor
+Нижня броня
 STR_ROUNDS
-Rounds
+Боєзапас
 STR_CURRENT_SAVE_ABORTED
-Current save aborted
+Прточне зберігання скасоване
 STR_CURRENT_LOAD_ABORTED
-Current load aborted
+Поточне завантаження скасоване
 STR_FORMAT
-FORMAT
+ФОРМАТУВАННЯ
 STR_SAVING_GAME
-Saving game
+Збереження гри
 STR_LOADING_GAME
-Loading game
+Завантаження гри
 STR_PROCEED
-PROCEED
+ПРОДОВЖИТИ
 STR_NO_SAVED_GAME_PRESENT
-No saved game present
+Немає збереженої гри
 STR_LOAD_UNSUCCESSFUL
-Load unsuccessful
+Завантаження не вдалось
 STR_SAVE_UNSUCCESSFUL
-Save unsuccessful
+Збереження не вдалось
 STR_LOAD_SUCCESSFUL
-Load successful
+Завантаження successful
 STR_SAVE_SUCCESSFUL
-Save successful
+Збереження successful
 STR_DELETE
-DELETE
+ВИДАЛИТИ
 STR_PREVIOUS_X_COM_SAVED_GAME_DETECTED
-Previous X-COM saved game detected
+Виявлено попереднє збереження X-COM
 STR_IS_IT_OK_TO_DELETE_THE_SAVED_GAME
-Is it OK to delete the saved game?
+Видалити збережену гру?
 STR_SOUND_OPTIONS
-SOUND OPTIONS
+НАЛАШТУВАННЯ ЗВУКУ
 STR_MUSIC_VOLUME
-Music volume
+Гучність музики
 STR_SFX_VOLUME
-SFX volume
+Гучність ефектів
 STR_CONTROLLER_OPTIONS
-CONTROLLER OPTIONS
+НАЛАШТУВАННЯ УПРАВЛІННЯ
 STR_CONTROLLER_MODE_1_HOTSPOT_INTERFACE
 CONTROLLER MODE 1{NEWLINE}(HOTSPOT INTERFACE)
 STR_CONTROLLER_MODE_2_POINT_CLICK_INTERFACE
 CONTROLLER MODE 2{NEWLINE}(POINT & CLICK INTERFACE)
 STR_LOADING
-Loading...
+Завантаження...
 STR_FORMAT_UNSUCCESSFUL
-Format Unsuccessful
+Форматування не вдалось
 STR_UNIT
-UNIT>
+ОДИНИЦІ>
 STR_ENERGY
-ENERGY
+ЕНЕРГІЯ
 STR_MORALE
-MORALE
+МОРАЛЬ
 STR_ARMOR_
-ARMOR>
+БРОНЯ>
 STR_FRONT_ARMOR_UC
-FRONT ARMOR
+ПЕРЕДНЯ БРОНЯ
 STR_LEFT_ARMOR_UC
-LEFT ARMOR
+ЛІВА БРОНЯ
 STR_RIGHT_ARMOR_UC
-RIGHT ARMOR
+ПРАВА БРОНЯ
 STR_REAR_ARMOR_UC
-REAR ARMOR
+ЗАДНЯ БРОНЯ
 STR_SKILLS
-SKILLS>
+НАВИКИ>
 STR_LEVEL
-LEVEL>
+РІВЕНЬ>
 STR_HEAD
-HEAD
+ГОЛОВА
 STR_TORSO
-TORSO
+ТОРС
 STR_RIGHT_ARM
-RIGHT ARM
+ПРАВА РУКА
 STR_LEFT_ARM
-LEFT ARM
+ЛІВА РУКА
 STR_RIGHT_LEG
-RIGHT LEG
+ПРАВА НОГА
 STR_LEFT_LEG
-LEFT LEG
+ЛІВА НОГА
 STR_PAIN_KILLER
-PAIN KILLER
+ЗНЕБОЛЮЮЧЕ
 STR_STIMULANT
-STIMULANT
+СТИМУЛЯТОР
 STR_HEAL
-HEAL
+ЛІКУВАННЯ
 STR_TUS
-TU>
+ОЧ>
 STR_ALIEN_ARTIFACT
-Alien Artifact
+Артефакт прибульців
 STR_AMMO_ROUNDS_LEFT
-AMMO:{NEWLINE}ROUNDS{NEWLINE}LEFT=
+В ЗБРОЇ:{NEWLINE}ПАТРОНІВ{NEWLINE}ЗАЛ.=
 STR_THROW
-Throw
+Кинути
 STR_AUTO_SHOT
-Auto Shot
+Черга
 STR_SNAP_SHOT
-Snap Shot
+Поспіхом
 STR_AIMED_SHOT
-Aimed Shot
+Прицільно
 STR_OPEN
-Open
+Відкити
 STR_CLOSE
-Close
+Закрити
 STR_STUN
-Stun
+Паралізувати
 STR_PRIME_GRENADE
-Prime Grenade
+Активувати
 STR_USE_SCANNER
-Use Scanner
+Використати
 STR_USE_MEDI_KIT
-Use Medi-kit
+Використати
 STR_LAUNCH_MISSILE
-Launch Missile
+Пуск ракети
 STR_ACC
-Acc>
+Точ>
 STR_NOT_ENOUGH_TIME_UNITS
-Not Enough Time Units!
+Не достатньо часу!
 STR_NOT_ENOUGH_ENERGY
-Not Enough Energy!
+Не достатньо енергії!
 STR_NO_ROUNDS_LEFT
-No Rounds left!
+Немає боєприпасів!
 STR_NO_AMMUNITION_LOADED
-No Ammunition Loaded!
+Зброя не заряджена!
 STR_WRONG_AMMUNITION_FOR_THIS_WEAPON
-Wrong Ammunition for this Weapon!
+Боєприпаси від іншої зброї!
 STR_WEAPON_IS_ALREADY_LOADED
-Weapon is already loaded!
+Зброя вже заряджена!
 STR_NO_LINE_OF_FIRE
-No Line of Fire!
+Немає лінії вогню!
 STR_GRENADE_IS_ACTIVATED
-Grenade is Activated!
+Граната активована!
 STR_THERE_IS_NO_ONE_THERE
-There is no one there!
+Там нікого немає!
 STR_UNABLE_TO_USE_ALIEN_ARTIFACT_UNTIL_RESEARCHED
-Unable to use alien artifact until researched!
+Не досліджений артефакт прибульців!
 STR_OUT_OF_RANGE
-Out of Range!
+Надто далеко!
 STR_UNABLE_TO_THROW_HERE
-Unable to throw here!
+Не можу сюди кинути!
 STR_NUMBER_OF_ROUNDS
-Number of Rounds?
+Кількість ходів?
 STR_SET_TIMER
-Set Timer
+Виставити таймер
 STR_HIDDEN_MOVEMENT
-HIDDEN MOVEMENT
+ПРИХОВАНІ ПЕРЕМІЩЕННЯ
 STR_TURN
-TURN>
+ХІД>
 STR_SIDE
-SIDE>
+СТОРОНА>
 STR_X_COM
 X-COM
 STR_PRESS_BUTTON_TO_CONTINUE
-Press button to continue
+Натисність кнопку...
 STR_MIND_CONTROL
-Mind Control
+Контроль свідомості
 STR_PANIC_UNIT
-Panic Unit
+Паніка
 STR_MIND_CONTROL_SUCCESSFUL
-Mind Control Successful
+Успішно взято під контроль
 STR_HAS_GONE_BERSERK
-has gone Berserk
+втрачає глузд
 STR_HAS_PANICKED
-Has Panicked
+панікує
 STR_XCOM
-Xcom
+X-COM
 STR_ALIENS
-Aliens
+Прибульці
 STR_RIGHT_HAND
-RIGHT HAND
+ПРАВА РУКА
 STR_LEFT_HAND
-LEFT HAND
+ЛІВА РУКА
 STR_RIGHT_SHOULDER
-RIGHT SHOULDER
+ПРАВЕ ПЛЕЧЕ
 STR_LEFT_SHOULDER
-LEFT SHOULDER
+ЛІВЕ ПЛЕЧЕ
 STR_BACK_PACK
-BACK PACK
+РАНЕЦЬ
 STR_BELT
-BELT
+ПОЯС
 STR_IS_UNDER_ALIEN_CONTROL
-is under alien control
+під контролем прибульців
 STR_SCROLL_SPEED
 ШВИДКІСТЬ СКРОЛІНГУ
 STR_SCROLL_TYPE
@@ -2026,33 +2026,33 @@ STR_XCOM_MOVEMENT_SPEED
 STR_ALIEN_MOVEMENT_SPEED
 ШВИДКІСТЬ ПЕРЕМІЩЕННЯ ПРИБУЛЬЦІВ
 STR_HAS_BECOME_UNCONSCIOUS
- has become unconscious
+ втрачає свідомість
 STR_HAS_DIED_FROM_A_FATAL_WOUND
- has died from a fatal wound
+ помирає від смертельних ран
 STR_USE_MIND_PROBE
-Use Mind Probe
+Використати
 STR_FATAL_WOUNDS
-FATAL WOUNDS
+СМЕРТЕЛЬНІ РАНИ
 STR_UNDER_ARMOR_UC
-UNDER ARMOR
+НИЖНЯ БРОНЯ
 STR_TIME_UNITS_RESERVED_FOR_SNAP_SHOT
-Time Units reserved for Snap Shot
+Очки Часу зекономлено для пострілу навмання
 STR_TIME_UNITS_RESERVED_FOR_AUTO_SHOT
-Time Units reserved for Auto Shot
+Очки Часу зекономлено для стрільби чергою
 STR_TIME_UNITS_RESERVED_FOR_AIMED_SHOT
-Time Units reserved for Aimed Shot
+Очки Часу зекономлено для прицільного пострілу
 STR_UNITS_IN_EXIT_AREA
- Units in Exit Area
+ в Зоні Виходу
 STR_UNITS_OUTSIDE_EXIT_AREA
- Units outside Exit Area
+ поза Зоною Виходу
 STR_ABORT_MISSION
-Перервати ісію?
+Перервати місію?
 STR_CORPSE
 Труп
 STR_UNLOAD
 Розрядити
 STR_NEW_SAVED_GAME
-<NEW SAVED GAME>
+<НОВА ЗБЕРЕЖЕНА ГРА>
 STR_NEW_BATTLE
 Нова Битва
 STR_OPTIONS
